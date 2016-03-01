@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456842187276">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456842302280">
   <folder name="css">
     <file name="site_global.css" crc="4277828687"/>
     <file name="master_master.css" crc="4104876600" ref="donate:resume:contact:about-me:privacy-policy:portfolio:index:contact-thanks:404"/>
@@ -32,7 +32,7 @@
     <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
     <file name="touchswipe.js" crc="4191887251" ref="index"/>
     <file name="jquery.watch.js" crc="349565855" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="portfolio:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
   </folder>
   <folder name="images">
@@ -70,5 +70,5 @@
   <file name="website-milenakiseleva.github.io.html" crc="302685662" seo="true" mt="1456828002357" redirect="true"/>
   <file name="website-milenakiseleva.blogspot.com.html" crc="4244579093" seo="true" mt="1456828002161" redirect="true"/>
   <file name="website-karolinaray.tk.html" crc="89040797" seo="true" mt="1456828002278" redirect="true"/>
-  <file name="website-milenarussianprincess.tk.html" crc="496080521" seo="true" mt="1456828002229" redirect="true"/>
+  <file name="website-milenarussianprincess.tk.html" crc="262296932" seo="true" mt="1456842272308" redirect="true"/>
 </manifest>
