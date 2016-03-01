@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456840734892">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456841491960">
   <folder name="css">
     <file name="site_global.css" crc="4277828687"/>
     <file name="master_master.css" crc="4104876600" ref="donate:resume:contact:about-me:privacy-policy:portfolio:index:contact-thanks:404"/>
@@ -60,7 +60,7 @@
   </folder>
   <file name="index.html" crc="103868775" seo="true" mt="1456840686884" redirect="true"/>
   <file name="resume.html" crc="3875536697" seo="true" mt="1456840686884" redirect="true"/>
-  <file name="portfolio.html" crc="495970757" seo="true" mt="1456840732354" redirect="true"/>
+  <file name="portfolio.html" crc="4278423451" seo="true" mt="1456841478050" redirect="true"/>
   <file name="about-me.html" crc="3949125301" seo="true" mt="1456840686884" redirect="true"/>
   <file name="donate.html" crc="81223865" seo="true" mt="1456840686884" redirect="true"/>
   <file name="contact.html" crc="173911147" seo="true" mt="1456840686884" redirect="true"/>
