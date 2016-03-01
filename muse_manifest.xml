@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456842569871">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456843109731">
   <folder name="css">
     <file name="site_global.css" crc="4277828687"/>
     <file name="master_master.css" crc="4104876600" ref="donate:resume:contact:about-me:privacy-policy:portfolio:index:contact-thanks:404"/>
@@ -9,7 +9,7 @@
     <file name="iefonts_resume.css" crc="22818333" ref="resume"/>
     <file name="contact.css" crc="142480101" ref="contact"/>
     <file name="website-karolinaray_tk.css" crc="97402927" ref="website-karolinaray.tk"/>
-    <file name="about-me.css" crc="44314169" ref="about-me"/>
+    <file name="about-me.css" crc="3837747532" ref="about-me"/>
     <file name="privacy-policy.css" crc="3970593138" ref="privacy-policy"/>
     <file name="portfolio.css" crc="17419584" ref="portfolio"/>
     <file name="index.css" crc="3846921475" ref="index"/>
@@ -60,8 +60,8 @@
   </folder>
   <file name="index.html" crc="103868775" seo="true" mt="1456840686884" redirect="true"/>
   <file name="resume.html" crc="3875536697" seo="true" mt="1456840686884" redirect="true"/>
-  <file name="portfolio.html" crc="4184563047" seo="true" mt="1456842177290" redirect="true"/>
-  <file name="about-me.html" crc="3949125301" seo="true" mt="1456840686884" redirect="true"/>
+  <file name="portfolio.html" crc="4078608095" seo="true" mt="1456843039852" redirect="true"/>
+  <file name="about-me.html" crc="484434542" seo="true" mt="1456843089478" redirect="true"/>
   <file name="donate.html" crc="81223865" seo="true" mt="1456840686884" redirect="true"/>
   <file name="contact.html" crc="173911147" seo="true" mt="1456840686884" redirect="true"/>
   <file name="privacy-policy.html" crc="4086295098" seo="true" mt="1456840686884" redirect="true"/>
