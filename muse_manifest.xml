@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456842302280">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1456842569871">
   <folder name="css">
     <file name="site_global.css" crc="4277828687"/>
     <file name="master_master.css" crc="4104876600" ref="donate:resume:contact:about-me:privacy-policy:portfolio:index:contact-thanks:404"/>
@@ -13,7 +13,7 @@
     <file name="privacy-policy.css" crc="3970593138" ref="privacy-policy"/>
     <file name="portfolio.css" crc="17419584" ref="portfolio"/>
     <file name="index.css" crc="3846921475" ref="index"/>
-    <file name="website-milenarussianprincess_tk.css" crc="66896703" ref="website-milenarussianprincess.tk"/>
+    <file name="website-milenarussianprincess_tk.css" crc="3780049162" ref="website-milenarussianprincess.tk"/>
     <file name="contact-thanks.css" crc="145425561" ref="contact-thanks"/>
     <file name="404.css" crc="237298132" ref="404"/>
     <file name="iefonts_404.css" crc="230181470" ref="404"/>
@@ -70,5 +70,5 @@
   <file name="website-milenakiseleva.github.io.html" crc="302685662" seo="true" mt="1456828002357" redirect="true"/>
   <file name="website-milenakiseleva.blogspot.com.html" crc="4244579093" seo="true" mt="1456828002161" redirect="true"/>
   <file name="website-karolinaray.tk.html" crc="89040797" seo="true" mt="1456828002278" redirect="true"/>
-  <file name="website-milenarussianprincess.tk.html" crc="262296932" seo="true" mt="1456842272308" redirect="true"/>
+  <file name="website-milenarussianprincess.tk.html" crc="262296932" seo="true" mt="1456842456560" redirect="true"/>
 </manifest>

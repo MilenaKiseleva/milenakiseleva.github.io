@@ -1,7 +1,7 @@
 .version.website_milenarussianprincess_tk /* version checker */
 {
-	color: #000003;
-	background-color: #FCC33F;
+	color: #0000E1;
+	background-color: #4EF90A;
 }
 
 #muse_css_mq
@@ -78,7 +78,7 @@
 	width: 600px;
 	height: 305px;
 	position: relative;
-	background: transparent url("../images/milenarussianprincess.jpg") no-repeat center top;
+	background: transparent url("../images/milenarussianprincess.jpg") no-repeat right top;
 	background-size: cover;
 }
 
