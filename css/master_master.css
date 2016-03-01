@@ -189,6 +189,17 @@
 	transform: matrix(0,-1,1,0,48,67);
 }
 
+#u3222-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3222
+{
+	font-size: 13px;
+	line-height: 16px;
+}
+
 #u3090,#u3093
 {
 	background-color: #242424;
