@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000E4;
-	background-color: #BF614C;
+	color: #00001C;
+	background-color: #C5D56C;
 }
 
 #muse_css_mq
@@ -603,6 +603,11 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 10px;
+}
+
+#u3399-3
+{
+	color: #FF00FF;
 }
 
 #pu3393,#pu3394
