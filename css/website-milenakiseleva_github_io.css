@@ -1,0 +1,113 @@
+.version.website_milenakiseleva_github_io /* version checker */
+{
+	color: #0000FA;
+	background-color: #6DA60B;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 600px;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 13px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#u1670-7
+{
+	z-index: 12;
+	width: 600px;
+	min-height: 64px;
+	background-color: transparent;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1670-2
+{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+#u1670-5
+{
+	font-size: 20px;
+	text-transform: none;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+#u1770-6
+{
+	z-index: 20;
+	width: 600px;
+	min-height: 42px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1770-3,#u1770-4
+{
+	color: #000000;
+}
+
+#u1672
+{
+	z-index: 19;
+	width: 600px;
+	height: 305px;
+	position: relative;
+	background: transparent url("../images/milenakiselevagithubio.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1669-10
+{
+	z-index: 2;
+	width: 600px;
+	min-height: 66px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1669-2,#u1669-5
+{
+	color: #FFFFFF;
+}
+
+.html
+{
+	background-color: #FF99FF;
+}
+
+body
+{
+	position: relative;
+	min-width: 600px;
+}
+

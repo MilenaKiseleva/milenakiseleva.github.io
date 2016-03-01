@@ -1,0 +1,102 @@
+.version.website_milenakiseleva_blogspot_com /* version checker */
+{
+	color: #000017;
+	background-color: #5671B7;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 600px;
+	min-height: 487px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 13px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1684-7
+{
+	z-index: 15;
+	width: 600px;
+	min-height: 64px;
+	background-color: transparent;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1684-2
+{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+#u1684-5
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+#u1777-6
+{
+	z-index: 23;
+	width: 600px;
+	min-height: 44px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1686
+{
+	z-index: 22;
+	width: 600px;
+	height: 305px;
+	position: relative;
+	background: transparent url("../images/milenakiselevablogspotcom.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1685-13
+{
+	z-index: 2;
+	width: 600px;
+	min-height: 95px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1685-2,#u1685-5,#u1685-8
+{
+	color: #FFFFFF;
+}
+
+.html
+{
+	background-color: #FF99FF;
+}
+
+body
+{
+	position: relative;
+	min-width: 600px;
+}
+
