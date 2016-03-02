@@ -1,7 +1,7 @@
 .version.website_milenarussianprincess_tk /* version checker */
 {
-	color: #0000E1;
-	background-color: #4EF90A;
+	color: #0000F0;
+	background-color: #9DE5E8;
 }
 
 #muse_css_mq
@@ -30,7 +30,7 @@
 
 #u4344-6
 {
-	z-index: 12;
+	z-index: 17;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -56,12 +56,12 @@
 
 #u4342-6
 {
-	z-index: 19;
+	z-index: 24;
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -74,7 +74,7 @@
 
 #u4345
 {
-	z-index: 18;
+	z-index: 23;
 	width: 600px;
 	height: 305px;
 	position: relative;
@@ -82,14 +82,14 @@
 	background-size: cover;
 }
 
-#u4343-10
+#u4343-15
 {
 	z-index: 2;
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.website_milenakiseleva_blogspot_com /* version checker */
 {
-	color: #000017;
-	background-color: #5671B7;
+	color: #0000ED;
+	background-color: #CF82F1;
 }
 
 #muse_css_mq
@@ -25,7 +25,7 @@
 
 #u1684-7
 {
-	z-index: 15;
+	z-index: 21;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -50,12 +50,12 @@
 
 #u1777-6
 {
-	z-index: 23;
+	z-index: 29;
 	width: 600px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -63,7 +63,7 @@
 
 #u1686
 {
-	z-index: 22;
+	z-index: 28;
 	width: 600px;
 	height: 305px;
 	position: relative;
@@ -71,14 +71,14 @@
 	background-size: contain;
 }
 
-#u1685-13
+#u1685-19
 {
 	z-index: 2;
 	width: 600px;
 	min-height: 95px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

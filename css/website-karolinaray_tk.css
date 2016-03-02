@@ -1,7 +1,7 @@
 .version.website_karolinaray_tk /* version checker */
 {
-	color: #000005;
-	background-color: #CE402F;
+	color: #0000F8;
+	background-color: #5C01AE;
 }
 
 #muse_css_mq
@@ -30,7 +30,7 @@
 
 #u1721-7
 {
-	z-index: 12;
+	z-index: 18;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -55,12 +55,12 @@
 
 #u1781-6
 {
-	z-index: 20;
+	z-index: 26;
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -68,7 +68,7 @@
 
 #u1723
 {
-	z-index: 19;
+	z-index: 25;
 	width: 600px;
 	height: 330px;
 	position: relative;
@@ -76,14 +76,14 @@
 	background-size: contain;
 }
 
-#u1722-10
+#u1722-16
 {
 	z-index: 2;
 	width: 600px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
