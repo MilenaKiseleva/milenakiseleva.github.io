@@ -1,7 +1,7 @@
 .version.website_milenakiseleva_github_io /* version checker */
 {
-	color: #0000FA;
-	background-color: #6DA60B;
+	color: #0000E4;
+	background-color: #6DD17F;
 }
 
 #muse_css_mq
@@ -30,7 +30,7 @@
 
 #u1670-7
 {
-	z-index: 12;
+	z-index: 15;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -56,12 +56,12 @@
 
 #u1770-6
 {
-	z-index: 20;
+	z-index: 23;
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -74,7 +74,7 @@
 
 #u1672
 {
-	z-index: 19;
+	z-index: 22;
 	width: 600px;
 	height: 305px;
 	position: relative;
@@ -82,14 +82,14 @@
 	background-size: cover;
 }
 
-#u1669-10
+#u1669-13
 {
 	z-index: 2;
 	width: 600px;
-	min-height: 66px;
+	min-height: 122px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

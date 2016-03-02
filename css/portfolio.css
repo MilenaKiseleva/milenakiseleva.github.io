@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FC;
-	background-color: #E8CBFB;
+	color: #00001F;
+	background-color: #CAF991;
 }
 
 #muse_css_mq
@@ -365,8 +365,8 @@
 	width: 782px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -484,9 +484,9 @@
 	width: 239px;
 	min-height: 151px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -543,9 +543,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -587,9 +587,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -637,9 +637,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -742,9 +742,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -787,9 +787,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -832,9 +832,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -901,9 +901,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1021,9 +1021,9 @@
 	width: 241px;
 	min-height: 158px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1061,10 +1061,10 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: #FFFFFF;
-	line-height: 22px;
 	color: #9E9E9E;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 348px;

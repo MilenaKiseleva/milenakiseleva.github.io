@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000EC;
-	background-color: #AA7172;
+	color: #000011;
+	background-color: #035C07;
 }
 
 #muse_css_mq
@@ -372,10 +372,10 @@
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #0092C4;
 	text-align: center;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
