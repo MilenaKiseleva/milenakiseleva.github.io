@@ -1,7 +1,7 @@
 .version.website_milenarussianprincess_tk /* version checker */
 {
-	color: #00001A;
-	background-color: #8A4EAF;
+	color: #0000F8;
+	background-color: #631437;
 }
 
 #muse_css_mq
@@ -60,8 +60,8 @@
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -88,8 +88,8 @@
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
