@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FC;
-	background-color: #A44EF0;
+	color: #0000E1;
+	background-color: #6FDC5A;
 }
 
 #muse_css_mq
@@ -722,7 +722,7 @@
 	margin-right: -10000px;
 	margin-top: 53px;
 	left: 1px;
-	background: #7F7F7F url("../images/screen%20shot%202016-02-18%20at%20001046.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/liner-multimedia-buttons.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -767,7 +767,7 @@
 	margin-right: -10000px;
 	margin-top: 53px;
 	left: 269px;
-	background: #7F7F7F url("../images/screen%20shot%202016-02-18%20at%20001028.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/different-genders.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -812,7 +812,7 @@
 	margin-right: -10000px;
 	margin-top: 53px;
 	left: 537px;
-	background: #7F7F7F url("../images/screen%20shot%202016-02-25%20at%20011211.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/weather-liner.jpg") no-repeat center center;
 	background-size: cover;
 }
 
