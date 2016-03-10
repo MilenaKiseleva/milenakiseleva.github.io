@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00001F;
-	background-color: #CAF991;
+	color: #0000FC;
+	background-color: #A44EF0;
 }
 
 #muse_css_mq
@@ -1045,8 +1045,8 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	font-size: 19px;
 	padding-top: 80px;
+	font-size: 19px;
 }
 
 #u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4567-2,#u4570-2
