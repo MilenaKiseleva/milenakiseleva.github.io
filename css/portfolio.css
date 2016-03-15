@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00000F;
-	background-color: #3DA074;
+	color: #0000FC;
+	background-color: #D2F47D;
 }
 
 #muse_css_mq
@@ -857,6 +857,13 @@
 	border-width: 0px 0px 1px;
 }
 
+#pu4529
+{
+	width: 0.01px;
+	margin-left: 79px;
+	margin-top: 25px;
+}
+
 #u4529
 {
 	z-index: 99;
@@ -866,9 +873,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #0093C4;
-	margin-left: 79px;
-	margin-top: 25px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
 	background: #7F7F7F url("../images/easter-eggs.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -879,20 +886,8 @@
 	background-position: center center;
 	width: 244px;
 	min-height: 0px;
-	margin: 25px 0px 0px 79px;
+	margin: 0px -10000px -1px 0px;
 	background-size: cover;
-}
-
-#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4529:hover::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: -1px;
-	left: -1px;
-	bottom: -1px;
-	right: -1px;
-	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
 #u4567-4
@@ -921,11 +916,77 @@
 	margin: -1px -10000px 0px 0px;
 }
 
+#u4608
+{
+	z-index: 137;
+	width: 244px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #0093C4;
+	padding-bottom: 1px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 269px;
+	background: #7F7F7F url("../images/weather-colored-liner.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u4608:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 244px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
+#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4529:hover::before,#u4608:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
+}
+
+#u4619-4
+{
+	z-index: 138;
+	width: 245px;
+	min-height: 156px;
+	background-color: transparent;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -1px;
+}
+
+#u4619-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 156px;
+	width: 245px;
+	margin: -2px -10000px 0px 0px;
+}
+
 #pu4276-6
 {
 	width: 0.01px;
 	margin-left: 79px;
-	margin-top: 87px;
+	margin-top: 88px;
 }
 
 #u4276-6
@@ -1041,7 +1102,7 @@
 	margin: 2px -10000px 0px 0px;
 }
 
-#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4567-4:hover p,#u4570-4:hover p
+#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4567-4:hover p,#u4619-4:hover p,#u4570-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1049,7 +1110,7 @@
 	font-size: 19px;
 }
 
-#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4567-2,#u4570-2
+#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4567-2,#u4619-2,#u4570-2
 {
 	padding-top: 60px;
 	visibility: hidden;/* 100% transparent text is hidden */
