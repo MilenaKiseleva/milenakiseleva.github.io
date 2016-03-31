@@ -1,24 +1,24 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1458048995324">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1459425213835">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4277828687"/>
-    <file name="master_master.css" crc="406973325" ref="404:about-me:portfolio:privacy-policy:index:contact:resume:donate:contact-thanks"/>
-    <file name="404.css" crc="237298132" ref="404"/>
-    <file name="iefonts_404.css" crc="230181470" ref="404"/>
-    <file name="about-me.css" crc="531160728" ref="about-me"/>
-    <file name="portfolio.css" crc="4241683581" ref="portfolio"/>
+    <file name="master_master.css" crc="289682006" ref="404:about-me:portfolio:privacy-policy:index:contact:resume:donate:contact-thanks"/>
+    <file name="404.css" crc="99813614" ref="404"/>
+    <file name="iefonts_404.css" crc="30149899" ref="404"/>
+    <file name="about-me.css" crc="4143345669" ref="about-me"/>
+    <file name="portfolio.css" crc="3890200027" ref="portfolio"/>
     <file name="website-milenarussianprincess_tk.css" crc="445271727" ref="website-milenarussianprincess.tk"/>
-    <file name="privacy-policy.css" crc="88946744" ref="privacy-policy"/>
+    <file name="privacy-policy.css" crc="19093850" ref="privacy-policy"/>
     <file name="website-karolinaray_tk.css" crc="196254603" ref="website-karolinaray.tk"/>
-    <file name="index.css" crc="4125612436" ref="index"/>
-    <file name="contact.css" crc="142480101" ref="contact"/>
+    <file name="index.css" crc="19807289" ref="index"/>
+    <file name="contact.css" crc="3830433484" ref="contact"/>
     <file name="website-milenakiseleva_blogspot_com.css" crc="223008132" ref="website-milenakiseleva.blogspot.com"/>
-    <file name="resume.css" crc="3787225604" ref="resume"/>
-    <file name="iefonts_resume.css" crc="22818333" ref="resume"/>
-    <file name="donate.css" crc="4073943309" ref="donate"/>
-    <file name="contact-thanks.css" crc="104681566" ref="contact-thanks"/>
+    <file name="resume.css" crc="7065310" ref="resume"/>
+    <file name="iefonts_resume.css" crc="449681745" ref="resume"/>
+    <file name="donate.css" crc="4123258743" ref="donate"/>
+    <file name="contact-thanks.css" crc="4152811435" ref="contact-thanks"/>
     <file name="website-milenakiseleva_github_io.css" crc="3812442214" ref="website-milenakiseleva.github.io"/>
   </folder>
   <folder name="scripts">
@@ -26,11 +26,11 @@
     <file name="museutils.js" crc="531812214" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
     <file name="whatinput.js" crc="84559013" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
     <file name="jquery.musemenu.js" crc="3902934130" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
-    <file name="pie.js" crc="3827607177" ref="index:portfolio:about-me"/>
-    <file name="webpro.js" crc="4156477058" ref="index"/>
-    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
-    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:portfolio:about-me:resume"/>
+    <file name="webpro.js" crc="4156477058" ref="index:resume"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index:resume"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index:resume"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index:resume"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="portfolio:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
@@ -38,9 +38,9 @@
   <folder name="images">
     <file name="u4273-4.png" crc="3843628750" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
     <file name="milenakiseleva1.jpg" crc="56349925" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:resume"/>
     <file name="milenakiseleva2.jpg" crc="159410405" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:resume"/>
     <file name="milenakiselevablogspotcom.jpg" crc="5215985" ref="portfolio:website-milenakiseleva.blogspot.com"/>
     <file name="milenarussianprincess.jpg" crc="9317620" ref="portfolio:website-milenarussianprincess.tk"/>
     <file name="milenakiselevagithubio.jpg" crc="4144274183" ref="portfolio:website-milenakiseleva.github.io"/>
@@ -54,16 +54,18 @@
     <file name="different-genders.jpg" crc="3913215221" ref="portfolio"/>
     <file name="weather-liner.jpg" crc="3974689093" ref="portfolio"/>
     <file name="weather-colored-liner.jpg" crc="4122837657" ref="portfolio"/>
+    <file name="2004.jpg" crc="3898016175" seo="true" ref="resume"/>
+    <file name="2004178x251.jpg" crc="3923112885" seo="true" ref="resume"/>
   </folder>
-  <file name="index.html" crc="4191286934" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="resume.html" crc="485295261" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="portfolio.html" crc="3965930575" seo="true" mt="1458048985084" redirect="true"/>
-  <file name="about-me.html" crc="3860078834" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="donate.html" crc="4226005182" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="contact.html" crc="524486698" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="privacy-policy.html" crc="15648425" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="contact-thanks.html" crc="111565244" seo="true" mt="1457978661283" redirect="true"/>
-  <file name="404.html" crc="4080336027" seo="true" mt="1457978661283" redirect="true"/>
+  <file name="index.html" crc="261136759" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="resume.html" crc="9845043" seo="true" mt="1459425187425" redirect="true"/>
+  <file name="portfolio.html" crc="306492471" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="about-me.html" crc="4122106788" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="donate.html" crc="108733058" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="contact.html" crc="150032545" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="privacy-policy.html" crc="12490607" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="contact-thanks.html" crc="4067102933" seo="true" mt="1459425187418" redirect="true"/>
+  <file name="404.html" crc="4048246292" seo="true" mt="1459425187418" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="4081728189" seo="true" mt="1456908308681" redirect="true"/>
   <file name="website-milenakiseleva.blogspot.com.html" crc="450734852" seo="true" mt="1456910098617" redirect="true"/>
   <file name="website-karolinaray.tk.html" crc="115989475" seo="true" mt="1456908341542" redirect="true"/>
