@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000017;
-	background-color: #B78EA1;
+	color: #000010;
+	background-color: #12CBC8;
 }
 
 #muse_css_mq
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 760.9499999999998px;
+	min-height: 761px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #333333;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -427,18 +426,50 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#ppu1253-105
+#pu3099
 {
 	width: 0.01px;
 	margin-left: -50px;
 }
 
-#pu1253-105
+#u3099
 {
-	width: 0.01px;
+	z-index: 4;
+	width: 111px;
+	min-height: 271px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
-	margin-left: 130px;
+	margin-top: 11px;
+}
+
+#u3104
+{
+	z-index: 5;
+	width: 17px;
+	height: 515px;
+	position: relative;
+	margin-right: -10000px;
+	left: 50px;
+}
+
+#u4273-4
+{
+	z-index: 43;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 991px;
+}
+
+#u3222-5
+{
+	z-index: 47;
+	width: 114px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 946px;
 }
 
 #u1253-105
@@ -450,6 +481,8 @@
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 25px;
+	left: 130px;
 }
 
 #u1253-2
@@ -681,9 +714,8 @@
 	z-index: 170;
 	width: 0.01px;
 	height: 284px;
+	margin-left: 80px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 1181px;
 }
 
 #u4651
@@ -852,46 +884,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
-}
-
-#u3099
-{
-	z-index: 4;
-	width: 111px;
-	min-height: 271px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 11px;
-}
-
-#u3104
-{
-	z-index: 5;
-	width: 17px;
-	height: 515px;
-	position: relative;
-	margin-right: -10000px;
-	left: 50px;
-}
-
-#u4273-4
-{
-	z-index: 43;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 15px;
-	left: 991px;
-}
-
-#u3222-5
-{
-	z-index: 47;
-	width: 114px;
-	min-height: 19px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 80px;
-	left: 946px;
 }
 
 #u3093
