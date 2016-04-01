@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000F2;
-	background-color: #4AF04C;
+	color: #000017;
+	background-color: #B78EA1;
 }
 
 #muse_css_mq
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 761px;
+	min-height: 760.9499999999998px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #333333;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -682,7 +683,7 @@
 	height: 284px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1166px;
+	margin-top: 1181px;
 }
 
 #u4651
