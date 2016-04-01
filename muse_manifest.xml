@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1459490580712">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1459494540998">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
@@ -15,8 +15,8 @@
     <file name="index.css" crc="126105683" ref="index"/>
     <file name="contact.css" crc="40546253" ref="contact"/>
     <file name="website-milenakiseleva_blogspot_com.css" crc="223008132" ref="website-milenakiseleva.blogspot.com"/>
-    <file name="resume.css" crc="4140883857" ref="resume"/>
-    <file name="iefonts_resume.css" crc="3907965509" ref="resume"/>
+    <file name="resume.css" crc="4064997452" ref="resume"/>
+    <file name="iefonts_resume.css" crc="417639298" ref="resume"/>
     <file name="donate.css" crc="3960020885" ref="donate"/>
     <file name="contact-thanks.css" crc="449757576" ref="contact-thanks"/>
     <file name="website-milenakiseleva_github_io.css" crc="3812442214" ref="website-milenakiseleva.github.io"/>
@@ -57,7 +57,7 @@
     <file name="2004178x251.jpg" crc="3923112885" seo="true" ref="resume"/>
   </folder>
   <file name="index.html" crc="4028712957" seo="true" mt="1459433719327" redirect="true"/>
-  <file name="resume.html" crc="37367872" seo="true" mt="1459439642482" redirect="true"/>
+  <file name="resume.html" crc="103944709" seo="true" mt="1459493798579" redirect="true"/>
   <file name="portfolio.html" crc="4245651458" seo="true" mt="1459433719327" redirect="true"/>
   <file name="about-me.html" crc="169928416" seo="true" mt="1459490549209" redirect="true"/>
   <file name="donate.html" crc="3798414508" seo="true" mt="1459433719327" redirect="true"/>
