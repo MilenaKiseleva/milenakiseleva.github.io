@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000018;
-	background-color: #E26CA7;
+	color: #000015;
+	background-color: #43A8F8;
 }
 
 #muse_css_mq
@@ -735,41 +735,20 @@
 	color: #7F7F7F;
 }
 
-#pu1290-9
-{
-	width: 0.01px;
-	margin-top: 66px;
-}
-
 #u1290-9
 {
 	z-index: 65;
 	width: 782px;
 	min-height: 208px;
 	background-color: transparent;
-	line-height: 23px;
+	color: #9E9E9E;
 	text-align: center;
 	font-size: 19px;
+	line-height: 23px;
 	font-family: bitter, serif;
 	font-weight: 400;
+	margin-top: 66px;
 	position: relative;
-	margin-right: -10000px;
-}
-
-#u1290-2,#u1290-3,#u1290-7
-{
-	color: #9E9E9E;
-}
-
-#u3738-4
-{
-	z-index: 120;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 114px;
-	left: 347px;
 }
 
 #u3099
@@ -814,7 +793,7 @@
 
 #u4300
 {
-	z-index: 124;
+	z-index: 120;
 	width: 782px;
 	min-height: 863px;
 	border-width: 0px;
