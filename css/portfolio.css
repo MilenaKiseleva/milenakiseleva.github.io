@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000015;
-	background-color: #538AB2;
+	color: #00000C;
+	background-color: #8E86E2;
 }
 
 #muse_css_mq
@@ -696,7 +696,7 @@
 	border-color: #0093C4;
 	margin-top: 24px;
 	position: relative;
-	background: #7F7F7F url("../images/karolinaray.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/karolinaraytk%20(home).jpg") no-repeat center center;
 	background-size: cover;
 }
 
