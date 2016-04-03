@@ -1,7 +1,7 @@
 .version.website_karolinaray_tk /* version checker */
 {
-	color: #00000B;
-	background-color: #B29B8B;
+	color: #000004;
+	background-color: #5B10A5;
 }
 
 #muse_css_mq
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -72,7 +72,7 @@
 	width: 600px;
 	height: 330px;
 	position: relative;
-	background: transparent url("../images/karolinaray.jpg") no-repeat left top;
+	background: transparent url("../images/karolinaraytk%20(home).jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 56px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
