@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00000C;
-	background-color: #8E86E2;
+	color: #0000EA;
+	background-color: #747853;
 }
 
 #muse_css_mq
@@ -450,6 +450,11 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u1760
+{
+	color: #000000;
 }
 
 #u1760-2

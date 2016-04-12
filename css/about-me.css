@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000015;
-	background-color: #43A8F8;
+	color: #000006;
+	background-color: #63AC77;
 }
 
 #muse_css_mq
@@ -449,7 +449,7 @@
 
 #u3389
 {
-	z-index: 77;
+	z-index: 85;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -464,7 +464,7 @@
 
 #u3395-6
 {
-	z-index: 83;
+	z-index: 91;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -492,7 +492,7 @@
 
 #u2040
 {
-	z-index: 74;
+	z-index: 82;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -507,7 +507,7 @@
 
 #u1291
 {
-	z-index: 75;
+	z-index: 83;
 	width: 237px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -519,7 +519,7 @@
 
 #u1292
 {
-	z-index: 76;
+	z-index: 84;
 	width: 225px;
 	height: 218px;
 	border-radius: 160px;
@@ -547,7 +547,7 @@
 
 #u3391
 {
-	z-index: 79;
+	z-index: 87;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -562,7 +562,7 @@
 
 #u3396-6
 {
-	z-index: 89;
+	z-index: 97;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -584,7 +584,7 @@
 
 #u3390
 {
-	z-index: 78;
+	z-index: 86;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -599,7 +599,7 @@
 
 #u3397-6
 {
-	z-index: 95;
+	z-index: 103;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -621,7 +621,7 @@
 
 #u3392
 {
-	z-index: 80;
+	z-index: 88;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -636,7 +636,7 @@
 
 #u3398-6
 {
-	z-index: 101;
+	z-index: 109;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -651,7 +651,7 @@
 
 #u3393
 {
-	z-index: 81;
+	z-index: 89;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -666,7 +666,7 @@
 
 #u3399-7
 {
-	z-index: 107;
+	z-index: 115;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -692,7 +692,7 @@
 
 #u3394
 {
-	z-index: 82;
+	z-index: 90;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -707,7 +707,7 @@
 
 #u3400-6
 {
-	z-index: 114;
+	z-index: 122;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -735,20 +735,38 @@
 	color: #7F7F7F;
 }
 
-#u1290-9
+#u1290-17
 {
 	z-index: 65;
 	width: 782px;
-	min-height: 208px;
+	min-height: 270px;
 	background-color: transparent;
-	color: #9E9E9E;
 	text-align: center;
-	font-size: 19px;
-	line-height: 23px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-top: 66px;
 	position: relative;
+}
+
+#u1290-2,#u1290-4,#u1290-6,#u1290-7,#u1290-9,#u1290-10,#u1290-11
+{
+	font-size: 19px;
+	line-height: 23px;
+	color: #9E9E9E;
+}
+
+#u1290-13
+{
+	font-size: 19px;
+	line-height: 23px;
+	color: #FFFFFF;
+}
+
+#u1290-15
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #9E9E9E;
 }
 
 #u3099
@@ -793,14 +811,14 @@
 
 #u4300
 {
-	z-index: 120;
+	z-index: 128;
 	width: 782px;
 	min-height: 863px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 55px;
-	margin-top: 43px;
+	margin-top: 30px;
 	position: relative;
 }
 
