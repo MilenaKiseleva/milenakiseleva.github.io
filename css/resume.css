@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000007;
-	background-color: #227695;
+	color: #0000F6;
+	background-color: #0416E4;
 }
 
 #muse_css_mq
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	margin-bottom: -6px;
+	margin-bottom: -12px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -890,19 +890,19 @@
 {
 	z-index: 3;
 	width: 942px;
-	padding-bottom: 28px;
+	padding-bottom: 34px;
 	position: relative;
 }
 
 #u3252-6
 {
 	z-index: 58;
-	width: 622px;
+	width: 782px;
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 30px;
-	left: 160px;
+	left: 80px;
 }
 
 #u3252-6:hover
@@ -910,7 +910,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 622px;
+	width: 782px;
 	margin: 30px -10000px 0px 0px;
 }
 
