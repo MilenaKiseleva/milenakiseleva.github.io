@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FC;
-	background-color: #8C17BA;
+	color: #0000F7;
+	background-color: #2E56BA;
 }
 
 #muse_css_mq
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 761px;
+	min-height: 760.5px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #333333;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -564,7 +565,7 @@
 
 #u4546-4
 {
-	z-index: 109;
+	z-index: 107;
 	width: 239px;
 	min-height: 151px;
 	background-color: transparent;
@@ -623,7 +624,7 @@
 
 #u4549-4
 {
-	z-index: 113;
+	z-index: 111;
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
@@ -667,7 +668,7 @@
 
 #u4552-4
 {
-	z-index: 117;
+	z-index: 115;
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
@@ -717,7 +718,7 @@
 
 #u4555-4
 {
-	z-index: 121;
+	z-index: 119;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -822,7 +823,7 @@
 
 #u4558-4
 {
-	z-index: 125;
+	z-index: 123;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -867,7 +868,7 @@
 
 #u4561-4
 {
-	z-index: 129;
+	z-index: 127;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -912,7 +913,7 @@
 
 #u4564-4
 {
-	z-index: 133;
+	z-index: 131;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -941,16 +942,96 @@
 	border-width: 0px 0px 1px;
 }
 
-#pu4529
+#u4608
+{
+	z-index: 139;
+	width: 244px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #0093C4;
+	padding-bottom: 1px;
+	margin-left: 79px;
+	margin-top: 26px;
+	position: relative;
+	background: #7F7F7F url("../images/weather-colored-liner.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u4608:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 244px;
+	min-height: 0px;
+	margin: 26px 0px 0px 79px;
+	background-size: cover;
+}
+
+#u4619-4
+{
+	z-index: 140;
+	width: 245px;
+	min-height: 155px;
+	background-color: transparent;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u4619-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 155px;
+	width: 245px;
+	margin: -1px -10000px 0px 0px;
+}
+
+#pu4874-6
 {
 	width: 0.01px;
 	margin-left: 79px;
-	margin-top: 25px;
+	margin-top: 60px;
 }
 
-#u4529
+#u4874-6
 {
-	z-index: 107;
+	z-index: 144;
+	width: 782px;
+	min-height: 75px;
+	background-color: transparent;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u4878
+{
+	z-index: 150;
+	width: 782px;
+	height: 19px;
+	border-style: solid;
+	border-color: #00FFFF;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	border-width: 0px 0px 1px;
+}
+
+#u4879
+{
+	z-index: 151;
 	width: 244px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -960,23 +1041,37 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 60px;
+	left: 269px;
 	background: #7F7F7F url("../images/easter-eggs.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u4529:hover
+#u4879:hover
 {
 	background-repeat: no-repeat;
 	background-position: center center;
 	width: 244px;
 	min-height: 0px;
-	margin: 0px -10000px -1px 0px;
+	margin: 60px -10000px -1px 0px;
 	background-size: cover;
 }
 
-#u4567-4
+#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4608:hover::before,#u4879:hover::before
 {
-	z-index: 137;
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
+}
+
+#u4883-4
+{
+	z-index: 152;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -991,7 +1086,7 @@
 	left: -1px;
 }
 
-#u4555-4:hover,#u4558-4:hover,#u4561-4:hover,#u4564-4:hover,#u4567-4:hover
+#u4555-4:hover,#u4558-4:hover,#u4561-4:hover,#u4564-4:hover,#u4883-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1000,84 +1095,18 @@
 	margin: -1px -10000px 0px 0px;
 }
 
-#u4608
-{
-	z-index: 145;
-	width: 244px;
-	-pie-box-shadow: 6px 6px 8px #7F7F7F;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-style: solid;
-	border-width: 1px;
-	border-color: #0093C4;
-	padding-bottom: 1px;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	left: 269px;
-	background: #7F7F7F url("../images/weather-colored-liner.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u4608:hover
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	width: 244px;
-	min-height: 0px;
-	margin: 0px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4529:hover::before,#u4608:hover::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: -1px;
-	left: -1px;
-	bottom: -1px;
-	right: -1px;
-	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
-}
-
-#u4619-4
-{
-	z-index: 146;
-	width: 245px;
-	min-height: 156px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -2px;
-	left: -1px;
-}
-
-#u4619-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 156px;
-	width: 245px;
-	margin: -2px -10000px 0px 0px;
-}
-
 #pu4276-6
 {
 	width: 0.01px;
-	margin-left: 79px;
-	margin-top: 88px;
+	margin-left: 80px;
+	margin-top: 59px;
 }
 
 #u4276-6
 {
 	z-index: 93;
 	width: 782px;
-	min-height: 28px;
+	min-height: 300px;
 	background-color: transparent;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -1085,7 +1114,7 @@
 	margin-right: -10000px;
 }
 
-#u3841-2,#u3844-2,#u4276-2
+#u3841-2,#u3844-2,#u4874-2,#u4276-2
 {
 	font-size: 25px;
 	text-align: center;
@@ -1093,7 +1122,7 @@
 	color: #0093C4;
 }
 
-#u3841-3,#u3844-3,#u4276-3
+#u3841-3,#u3844-3,#u4874-3,#u4276-3
 {
 	font-size: 25px;
 	text-align: left;
@@ -1101,26 +1130,12 @@
 	color: #0093C4;
 }
 
-#u3841-7,#u3844-4,#u4276-4
+#u3841-7,#u3844-4,#u4874-4,#u4276-4
 {
 	font-size: 20px;
 	text-align: left;
 	line-height: 24px;
 	color: #000000;
-}
-
-#u4279
-{
-	z-index: 104;
-	width: 782px;
-	height: 19px;
-	border-style: solid;
-	border-color: #00FFFF;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 15px;
-	border-width: 0px 0px 1px;
 }
 
 #u4277
@@ -1131,9 +1146,11 @@
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-width: 0px;
 	border-color: transparent;
-	padding-bottom: 3px;
-	margin-left: 348px;
+	padding-bottom: 2px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 68px;
+	left: 269px;
 	background: #FFFFFF url("../images/rss-feed.png") no-repeat center top;
 	background-size: contain;
 }
@@ -1144,7 +1161,7 @@
 	background-position: center top;
 	width: 245px;
 	min-height: 0px;
-	margin: 0px 0px 0px 348px;
+	margin: 68px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -1162,7 +1179,7 @@
 
 #u4570-4
 {
-	z-index: 141;
+	z-index: 135;
 	width: 241px;
 	min-height: 158px;
 	background-color: transparent;
@@ -1173,7 +1190,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
+	margin-top: 3px;
 	left: 2px;
 }
 
@@ -1183,10 +1200,10 @@
 	padding-bottom: 0px;
 	min-height: 158px;
 	width: 241px;
-	margin: 2px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
 }
 
-#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4567-4:hover p,#u4619-4:hover p,#u4570-4:hover p
+#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4619-4:hover p,#u4883-4:hover p,#u4570-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1194,7 +1211,7 @@
 	padding-top: 80px;
 }
 
-#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4567-2,#u4619-2,#u4570-2
+#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4619-2,#u4883-2,#u4570-2
 {
 	padding-top: 60px;
 	visibility: hidden;/* 100% transparent text is hidden */
@@ -1206,32 +1223,30 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: #FFFFFF;
-	color: #9E9E9E;
 	line-height: 22px;
+	color: #9E9E9E;
 	text-align: center;
 	font-size: 18px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 348px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 231px;
+	left: 269px;
 }
 
-#u4540
+#u4279
 {
-	z-index: 108;
-	width: 146px;
-	height: 62px;
-	margin-left: 42px;
-	margin-top: 26px;
+	z-index: 104;
+	width: 782px;
+	height: 19px;
+	border-style: solid;
+	border-color: #00FFFF;
+	background-color: transparent;
 	position: relative;
-}
-
-.ie #u4540
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	margin-right: -10000px;
+	margin-top: 15px;
+	border-width: 0px 0px 1px;
 }
 
 #u3093
@@ -1239,6 +1254,8 @@
 	z-index: 3;
 	width: 942px;
 	padding-bottom: 34px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
