@@ -1,8 +1,8 @@
-# milenakiseleva.github.io
+# MilenaKiseleva.github.io
 
 My personal website hosted on GitHub.
 
-[![screenshot](https://github.com/MilenaKiseleva/mycyberuniverse/blob/master/screenshot.png)]()
+[![screenshot](https://github.com/MilenaKiseleva/milenakiseleva.github.io/blob/master/screenshot.png)]()
 
 
 ## Author
