@@ -128,6 +128,36 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+a,.Black a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.Black a:link
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.Black a:visited
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.Black a:hover
+{
+	color: #7F7F7F;
+	text-decoration: inherit;
+}
+
+.Black a:active
+{
+	color: #7F7F7F;
+	text-decoration: inherit;
+}
+
 .normal_text
 {
 	color: #000000;
