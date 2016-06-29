@@ -132,37 +132,12 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u4991,#u4992
-{
-	background-color: transparent;
-}
-
-#u3156.MuseMenuActive,#u4992:hover
-{
-	background-color: #999999;
-}
-
-#u4992:active
-{
-	background-color: #6B6B6B;
-}
-
-#u4995-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
 #u3176,#u3177
 {
 	background-color: transparent;
 }
 
-#u4992.MuseMenuActive,#u3177:hover
+#u3156.MuseMenuActive,#u3177:hover
 {
 	background-color: #999999;
 }
