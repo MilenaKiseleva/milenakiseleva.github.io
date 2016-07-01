@@ -5,6 +5,11 @@ My personal website hosted on GitHub.
 [![screenshot](https://github.com/MilenaKiseleva/milenakiseleva.github.io/blob/master/screenshot.png)]()
 
 
+## Copyright
+
+(c) 2016 Milena Kiseleva.
+
+
 ## Author
 
 Milena Kiseleva
