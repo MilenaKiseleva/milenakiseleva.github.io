@@ -128,7 +128,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.Black a
+.Black a
 {
 	color: inherit;
 	text-decoration: inherit;

@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #00000C;
-	background-color: #33E8F0;
+	color: #0000EB;
+	background-color: #4A4461;
 }
 
 #muse_css_mq
@@ -447,10 +447,10 @@
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 36px;
-	color: #0092C4;
+	color: #E792C4;
 	text-align: center;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -496,14 +496,14 @@
 	font-size: 20px;
 	text-align: center;
 	line-height: 24px;
-	color: #0093C4;
+	color: #E792C4;
 }
 
 #u1250-6,#u1250-12,#u1250-21,#u1250-27,#u1250-33
 {
 	font-size: 20px;
 	line-height: 24px;
-	color: #0093C4;
+	color: #E792C4;
 }
 
 #u1250-2,#u1250-8,#u1250-9,#u1250-14,#u1250-15,#u1250-17,#u1250-23,#u1250-29,#u1250-30,#u1250-35
