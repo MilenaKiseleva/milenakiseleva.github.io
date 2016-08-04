@@ -1,13 +1,30 @@
 # MilenaKiseleva.github.io
 
-My personal website hosted on GitHub.
+Personal website of Milena Kiseleva.
 
 [![screenshot](https://github.com/MilenaKiseleva/milenakiseleva.github.io/blob/master/screenshot.png)]()
+
+This is the code for my personal website - [milenakiseleva.github.io](https://milenakiseleva.github.io) - it's a static site built with Adobe Muse.
+
+
+## Under the hood
+
+#### Hosting
+
+Website hosted at [GitHub Pages](https://pages.github.com).
+
+#### Theme
+
+Theme "..." designed by [Milena Kiseleva](https://milenakiseleva.github.io).
+
+#### Contact form
+
+Contact form are powered by [Formspree](https://formspree.io).
 
 
 ## Copyright
 
-(c) 2016 Milena Kiseleva.
+Copyright © 2016 Milena Kiseleva.
 
 
 ## Author
