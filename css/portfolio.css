@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000014;
-	background-color: #953596;
+	color: #0000F3;
+	background-color: #CC885D;
 }
 
 #muse_css_mq
@@ -439,8 +439,8 @@
 	width: 782px;
 	min-height: 26px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -523,9 +523,9 @@
 	width: 239px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -582,9 +582,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -626,9 +626,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -676,9 +676,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -806,9 +806,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -851,9 +851,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -896,15 +896,22 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
+}
+
+#pu4608
+{
+	width: 0.01px;
+	margin-left: 79px;
+	margin-top: 26px;
 }
 
 #u4608
@@ -916,10 +923,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #0093C4;
-	padding-bottom: 1px;
-	margin-left: 79px;
-	margin-top: 26px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
 	background: #7F7F7F url("../images/weather-colored-liner.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -930,7 +936,7 @@
 	background-position: center center;
 	width: 244px;
 	min-height: 0px;
-	margin: 26px 0px 0px 79px;
+	margin: 0px -10000px -1px 0px;
 	background-size: cover;
 }
 
@@ -940,31 +946,73 @@
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
 	left: -1px;
 }
 
-#u4619-4:hover
+#u5025
+{
+	z-index: 152;
+	width: 244px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #0093C4;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 269px;
+	background: #7F7F7F url("../images/ice-cream.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5025:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 244px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
+#u5026-4
+{
+	z-index: 153;
+	width: 245px;
+	min-height: 155px;
+	background-color: transparent;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: -2px;
+}
+
+#u4619-4:hover,#u5026-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 155px;
 	width: 245px;
-	margin: -1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #pu4874-6
 {
 	width: 0.01px;
 	margin-left: 80px;
-	margin-top: 60px;
+	margin-top: 61px;
 }
 
 #u4874-6
@@ -1007,7 +1055,7 @@
 	background-size: cover;
 }
 
-#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4608:hover::before,#u4879:hover::before
+#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4608:hover::before,#u5025:hover::before,#u4879:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1025,9 +1073,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1133,9 +1181,9 @@
 	width: 241px;
 	min-height: 158px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1153,7 +1201,7 @@
 	margin: 3px -10000px 0px 0px;
 }
 
-#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4619-4:hover p,#u4883-4:hover p,#u4570-4:hover p
+#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4619-4:hover p,#u5026-4:hover p,#u4883-4:hover p,#u4570-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1161,7 +1209,7 @@
 	padding-top: 80px;
 }
 
-#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4619-2,#u4883-2,#u4570-2
+#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4619-2,#u5026-2,#u4883-2,#u4570-2
 {
 	padding-top: 60px;
 	visibility: hidden;/* 100% transparent text is hidden */
@@ -1173,10 +1221,10 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: #FFFFFF;
+	line-height: 22px;
 	color: #9E9E9E;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

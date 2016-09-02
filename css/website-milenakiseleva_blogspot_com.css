@@ -1,7 +1,7 @@
 .version.website_milenakiseleva_blogspot_com /* version checker */
 {
-	color: #00000D;
-	background-color: #4AD584;
+	color: #0000ED;
+	background-color: #B36020;
 }
 
 #muse_css_mq
@@ -54,8 +54,8 @@
 	width: 600px;
 	min-height: 44px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -77,8 +77,8 @@
 	width: 600px;
 	min-height: 95px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
