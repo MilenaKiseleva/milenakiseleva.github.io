@@ -1,12 +1,15 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1472813456101">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1472818638384">
+  <folder name="assets">
+    <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="115342351"/>
-    <file name="master_master.css" crc="92232942" ref="privacy-policy:about-me:contact:donate:portfolio:404:resume:contact-thanks:index"/>
+    <file name="master_master.css" crc="214089163" ref="privacy-policy:about-me:contact:donate:portfolio:404:resume:contact-thanks:index"/>
     <file name="privacy-policy.css" crc="410579240" ref="privacy-policy"/>
     <file name="about-me.css" crc="376856031" ref="about-me"/>
     <file name="contact.css" crc="4273552069" ref="contact"/>
     <file name="donate.css" crc="462013633" ref="donate"/>
-    <file name="portfolio.css" crc="4090267741" ref="portfolio"/>
+    <file name="portfolio.css" crc="456441285" ref="portfolio"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
     <file name="website-milenarussianprincess_tk.css" crc="4167242807" ref="website-milenarussianprincess.tk"/>
     <file name="404.css" crc="3847173286" ref="404"/>
@@ -49,14 +52,16 @@
     <file name="weather-liner.jpg" crc="3974689093" ref="portfolio"/>
     <file name="weather-colored-liner.jpg" crc="4122837657" ref="portfolio"/>
     <file name="ice-cream.jpg" crc="3931738396" ref="portfolio"/>
-    <file name="easter-eggs.jpg" crc="217381560" ref="portfolio"/>
     <file name="rss-feed.png" crc="3921697730" ref="portfolio"/>
     <file name="milena kiseleva 2.jpg" crc="4078455260" ref="about-me"/>
     <file name="pinguin.png" crc="3758782064" ref="404"/>
+    <file name="clown.png" crc="132184098" ref="portfolio"/>
+    <file name="lion-face.jpg" crc="256870871" ref="portfolio"/>
+    <file name="ice-cream2.jpg" crc="242821076" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="3920997501" seo="true" mt="1467238302457" redirect="true"/>
   <file name="resume.html" crc="69644741" seo="true" mt="1470246229432" redirect="true"/>
-  <file name="portfolio.html" crc="102821986" seo="true" mt="1472813451841" redirect="true"/>
+  <file name="portfolio.html" crc="278662317" seo="true" mt="1472818637583" redirect="true"/>
   <file name="about-me.html" crc="500673150" seo="true" mt="1470255615924" redirect="true"/>
   <file name="donate.html" crc="3812070035" seo="true" mt="1467238302457" redirect="true"/>
   <file name="contact.html" crc="3913762570" seo="true" mt="1467238302457" redirect="true"/>

@@ -192,11 +192,6 @@
 	cursor: pointer;
 }
 
-#u3104
-{
-	background-color: #333333;
-}
-
 #u4273-4
 {
 	display: block;
@@ -225,6 +220,11 @@
 	line-height: 16px;
 }
 
+#u3104
+{
+	background-color: #333333;
+}
+
 #u3090,#u3093
 {
 	background-color: #242424;
@@ -233,8 +233,8 @@
 #u3252-6
 {
 	background-color: transparent;
-	line-height: 16px;
 	color: #FFFFFF;
+	line-height: 16px;
 	text-align: center;
 	font-size: 13px;
 	font-family: bitter, serif;
