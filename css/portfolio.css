@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FA;
-	background-color: #8BCA92;
+	color: #00001F;
+	background-color: #FB65F0;
 }
 
 #muse_css_mq
@@ -940,7 +940,7 @@
 #pu4608
 {
 	width: 0.01px;
-	margin-left: 79px;
+	margin-left: 80px;
 	margin-top: 26px;
 }
 
@@ -953,6 +953,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	padding-bottom: 1px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -983,7 +984,8 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	left: -1px;
+	margin-top: -1px;
+	left: -2px;
 }
 
 #u5025
@@ -995,6 +997,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	padding-bottom: 1px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -1038,7 +1041,8 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	left: -2px;
+	margin-top: -1px;
+	left: -1px;
 }
 
 #u4619-4:hover,#u5026-4:hover
@@ -1047,7 +1051,7 @@
 	padding-bottom: 0px;
 	min-height: 155px;
 	width: 245px;
-	margin: 0px -10000px 0px 0px;
+	margin: -1px -10000px 0px 0px;
 }
 
 #u5168-4
