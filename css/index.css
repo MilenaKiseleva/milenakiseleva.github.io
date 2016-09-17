@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #81AB27;
+	color: #00001D;
+	background-color: #58507A;
 }
 
 #muse_css_mq
@@ -455,7 +455,7 @@
 
 #slideshowu3521
 {
-	z-index: 65;
+	z-index: 69;
 	width: 0.01px;
 	height: 472px;
 	position: relative;
@@ -474,12 +474,12 @@
 
 #u3522popup
 {
-	z-index: 66;
+	z-index: 70;
 }
 
 #u3700
 {
-	z-index: 67;
+	z-index: 71;
 	width: 782px;
 	height: 472px;
 	border-width: 0px;
@@ -497,7 +497,7 @@
 
 #u4204
 {
-	z-index: 69;
+	z-index: 73;
 	width: 782px;
 	height: 472px;
 	border-width: 0px;
@@ -525,14 +525,14 @@
 
 #u410-12
 {
-	z-index: 71;
+	z-index: 75;
 	width: 329px;
 	min-height: 229px;
 	background-color: transparent;
 	color: #0092C4;
-	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
+	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -578,8 +578,10 @@
 #u3093
 {
 	z-index: 3;
-	width: 942px;
-	padding-bottom: 29px;
+	width: 862px;
+	padding-left: 80px;
+	padding-top: 30px;
+	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -590,9 +592,6 @@
 	width: 782px;
 	min-height: 19px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 80px;
 }
 
 #u3252-6:hover
@@ -601,7 +600,26 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 782px;
-	margin: 30px -10000px 0px 0px;
+	margin: 0px;
+}
+
+#u5246-4
+{
+	z-index: 65;
+	width: 104px;
+	min-height: 19px;
+	margin-left: 758px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u5246-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 104px;
+	margin: 8px 0px 0px 758px;
 }
 
 #u4305

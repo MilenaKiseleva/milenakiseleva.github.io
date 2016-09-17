@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
 	color: #0000E5;
-	background-color: #4F34A6;
+	background-color: #432BCC;
 }
 
 #muse_css_mq
@@ -443,7 +443,7 @@
 
 #u1417
 {
-	z-index: 65;
+	z-index: 69;
 	width: 782px;
 	height: 502px;
 	position: relative;
@@ -454,12 +454,12 @@
 
 #u1423-4
 {
-	z-index: 66;
+	z-index: 70;
 	width: 101px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
@@ -520,8 +520,10 @@
 #u3093
 {
 	z-index: 3;
-	width: 942px;
-	padding-bottom: 29px;
+	width: 862px;
+	padding-left: 80px;
+	padding-top: 30px;
+	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -532,9 +534,6 @@
 	width: 782px;
 	min-height: 19px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 80px;
 }
 
 #u3252-6:hover
@@ -543,7 +542,26 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 782px;
-	margin: 30px -10000px 0px 0px;
+	margin: 0px;
+}
+
+#u5246-4
+{
+	z-index: 65;
+	width: 104px;
+	min-height: 19px;
+	margin-left: 758px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u5246-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 104px;
+	margin: 8px 0px 0px 758px;
 }
 
 #u4305

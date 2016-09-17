@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E5;
-	background-color: #4A38E3;
+	color: #000007;
+	background-color: #C8359B;
 }
 
 #muse_css_mq
@@ -444,7 +444,7 @@
 
 #u1253-125
 {
-	z-index: 65;
+	z-index: 69;
 	width: 782px;
 	min-height: 539px;
 	background-color: transparent;
@@ -708,7 +708,7 @@
 
 #slideshowu4628
 {
-	z-index: 190;
+	z-index: 194;
 	width: 0.01px;
 	height: 284px;
 	position: relative;
@@ -732,12 +732,12 @@
 
 #u4651popup
 {
-	z-index: 191;
+	z-index: 195;
 }
 
 #u4652
 {
-	z-index: 192;
+	z-index: 196;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -765,12 +765,12 @@
 
 #u4631popup
 {
-	z-index: 194;
+	z-index: 198;
 }
 
 #u4638
 {
-	z-index: 195;
+	z-index: 199;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -796,9 +796,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: -45px;
@@ -806,7 +806,7 @@
 
 #u4650-4popup
 {
-	z-index: 197;
+	z-index: 201;
 }
 
 #u4663-4
@@ -815,9 +815,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: 1160px;
@@ -825,7 +825,7 @@
 
 #u4663-4popup
 {
-	z-index: 201;
+	z-index: 205;
 }
 
 #u4642
@@ -858,15 +858,15 @@
 
 #u4643-4
 {
-	z-index: 206;
+	z-index: 210;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -936,8 +936,10 @@
 #u3093
 {
 	z-index: 3;
-	width: 942px;
-	padding-bottom: 29px;
+	width: 862px;
+	padding-left: 80px;
+	padding-top: 30px;
+	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -948,9 +950,6 @@
 	width: 782px;
 	min-height: 19px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 80px;
 }
 
 #u3252-6:hover
@@ -959,7 +958,26 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 782px;
-	margin: 30px -10000px 0px 0px;
+	margin: 0px;
+}
+
+#u5246-4
+{
+	z-index: 65;
+	width: 104px;
+	min-height: 19px;
+	margin-left: 758px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u5246-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 104px;
+	margin: 8px 0px 0px 758px;
 }
 
 #u4305

@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000016;
-	background-color: #765DDF;
+	color: #0000F6;
+	background-color: #2811C8;
 }
 
 #muse_css_mq
@@ -450,7 +450,7 @@
 
 #u3389
 {
-	z-index: 82;
+	z-index: 86;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -465,7 +465,7 @@
 
 #u3395-6
 {
-	z-index: 88;
+	z-index: 92;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -493,7 +493,7 @@
 
 #u2040
 {
-	z-index: 79;
+	z-index: 83;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -508,7 +508,7 @@
 
 #u1291
 {
-	z-index: 80;
+	z-index: 84;
 	width: 237px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -520,7 +520,7 @@
 
 #u1292
 {
-	z-index: 81;
+	z-index: 85;
 	width: 225px;
 	height: 218px;
 	border-radius: 160px;
@@ -548,7 +548,7 @@
 
 #u3391
 {
-	z-index: 84;
+	z-index: 88;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -563,7 +563,7 @@
 
 #u3396-6
 {
-	z-index: 94;
+	z-index: 98;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -585,7 +585,7 @@
 
 #u3390
 {
-	z-index: 83;
+	z-index: 87;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -600,7 +600,7 @@
 
 #u3397-6
 {
-	z-index: 100;
+	z-index: 104;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -622,7 +622,7 @@
 
 #u3392
 {
-	z-index: 85;
+	z-index: 89;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -637,7 +637,7 @@
 
 #u3398-6
 {
-	z-index: 106;
+	z-index: 110;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -652,7 +652,7 @@
 
 #u3393
 {
-	z-index: 86;
+	z-index: 90;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -667,7 +667,7 @@
 
 #u3399-7
 {
-	z-index: 112;
+	z-index: 116;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -693,7 +693,7 @@
 
 #u3394
 {
-	z-index: 87;
+	z-index: 91;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -708,7 +708,7 @@
 
 #u3400-6
 {
-	z-index: 119;
+	z-index: 123;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -738,7 +738,7 @@
 
 #u1290-14
 {
-	z-index: 65;
+	z-index: 69;
 	width: 782px;
 	min-height: 270px;
 	background-color: transparent;
@@ -814,8 +814,10 @@
 #u3093
 {
 	z-index: 3;
-	width: 942px;
-	padding-bottom: 29px;
+	width: 862px;
+	padding-left: 80px;
+	padding-top: 30px;
+	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -826,9 +828,6 @@
 	width: 782px;
 	min-height: 19px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 80px;
 }
 
 #u3252-6:hover
@@ -837,7 +836,26 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 782px;
-	margin: 30px -10000px 0px 0px;
+	margin: 0px;
+}
+
+#u5246-4
+{
+	z-index: 65;
+	width: 104px;
+	min-height: 19px;
+	margin-left: 758px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u5246-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 104px;
+	margin: 8px 0px 0px 758px;
 }
 
 #u4305

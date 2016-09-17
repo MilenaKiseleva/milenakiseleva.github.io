@@ -241,16 +241,27 @@
 	font-weight: 400;
 }
 
-#u3252-6:hover p,#u3252-6:hover a,#u3252-6:hover span
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
 #u3252-2
 {
 	text-decoration: none;
 	color: #FFFFFF;
+}
+
+#u5246-4
+{
+	background-color: transparent;
+	color: #E792C4;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u3252-6:hover p,#u3252-6:hover a,#u3252-6:hover span,#u5246-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u3099,#u4305
