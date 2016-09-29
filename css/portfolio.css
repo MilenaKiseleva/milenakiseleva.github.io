@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00001C;
-	background-color: #31C624;
+	color: #0000FA;
+	background-color: #B03514;
 }
 
 #muse_css_mq
@@ -439,8 +439,8 @@
 	width: 782px;
 	min-height: 26px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -547,9 +547,9 @@
 	width: 239px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -606,9 +606,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -650,9 +650,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -700,9 +700,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -779,10 +779,10 @@
 	width: 782px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 30px;
 	color: #E792C4;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 80px;
@@ -829,9 +829,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -873,9 +873,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -917,9 +917,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -977,9 +977,9 @@
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1016,7 +1016,52 @@
 	background-size: cover;
 }
 
-#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4608:hover::before,#u5025:hover::before
+#u5026-4
+{
+	z-index: 142;
+	width: 245px;
+	min-height: 155px;
+	background-color: transparent;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u5249
+{
+	z-index: 183;
+	width: 244px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E792C4;
+	padding-bottom: 1px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 536px;
+	background: #7F7F7F url("../images/snowflakes-iner.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5249:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 244px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
+#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4608:hover::before,#u5025:hover::before,#u5249:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1028,24 +1073,24 @@
 	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
-#u5026-4
+#u5250-4
 {
-	z-index: 142;
+	z-index: 184;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
-	left: -1px;
+	left: 1px;
 }
 
-#u4619-4:hover,#u5026-4:hover
+#u4619-4:hover,#u5026-4:hover,#u5250-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1060,10 +1105,10 @@
 	width: 782px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 30px;
 	color: #E792C4;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 79px;
@@ -1115,9 +1160,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1164,9 +1209,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1213,9 +1258,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1269,9 +1314,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1318,9 +1363,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1379,9 +1424,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1404,8 +1449,8 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	font-size: 19px;
 	padding-top: 105px;
+	font-size: 19px;
 }
 
 #u5169-2,#u5171-2,#u5173-2,#u5205-2,#u5211-2,#u5217-2
@@ -1420,10 +1465,10 @@
 	width: 782px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 30px;
 	color: #E792C4;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 80px;
@@ -1475,9 +1520,9 @@
 	width: 241px;
 	min-height: 158px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1495,15 +1540,15 @@
 	margin: 3px -10000px 0px 0px;
 }
 
-#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4619-4:hover p,#u5026-4:hover p,#u4570-4:hover p
+#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4619-4:hover p,#u5026-4:hover p,#u5250-4:hover p,#u4570-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	font-size: 19px;
 	padding-top: 80px;
+	font-size: 19px;
 }
 
-#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4619-2,#u5026-2,#u4570-2
+#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4619-2,#u5026-2,#u5250-2,#u4570-2
 {
 	padding-top: 60px;
 	visibility: hidden;/* 100% transparent text is hidden */
@@ -1515,10 +1560,10 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: #FFFFFF;
+	line-height: 22px;
 	color: #9E9E9E;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 348px;
@@ -1533,10 +1578,10 @@
 	width: 782px;
 	min-height: 24px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #000000;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 80px;
