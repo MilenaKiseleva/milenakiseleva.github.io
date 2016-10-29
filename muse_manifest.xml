@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1477030818171">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1477754857157">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="490754995"/>
-    <file name="master_master.css" crc="532071205" ref="contact:about-me:portfolio:resume:donate:404:index:contact-thanks:privacy-policy"/>
+    <file name="site_global.css" crc="115342351"/>
+    <file name="master_master.css" crc="4004285034" ref="contact:about-me:portfolio:resume:donate:404:index:contact-thanks:privacy-policy"/>
     <file name="contact.css" crc="3938591042" ref="contact"/>
     <file name="about-me.css" crc="4129821128" ref="about-me"/>
-    <file name="portfolio.css" crc="197898659" ref="portfolio"/>
+    <file name="portfolio.css" crc="3967482020" ref="portfolio"/>
     <file name="website-milenarussianprincess_tk.css" crc="4167242807" ref="website-milenarussianprincess.tk"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
     <file name="resume.css" crc="130561435" ref="resume"/>
@@ -47,8 +47,8 @@
     <file name="milenarussianprincess.jpg" crc="9317620" ref="portfolio:website-milenarussianprincess.tk"/>
     <file name="milenakiselevagithubio.jpg" crc="4144274183" ref="portfolio:website-milenakiseleva.github.io"/>
     <file name="karolinaraytk (home).jpg" crc="74012356" ref="portfolio:website-karolinaray.tk"/>
-    <file name="liner-multimedia-buttons.jpg" crc="3971281765" ref="portfolio"/>
-    <file name="different-genders.jpg" crc="3913215221" ref="portfolio"/>
+    <file name="liner-multimedia-buttons.jpg" crc="4065895635" ref="portfolio"/>
+    <file name="different-genders.jpg" crc="3931627192" ref="portfolio"/>
     <file name="weather-liner.jpg" crc="3974689093" ref="portfolio"/>
     <file name="weather-colored-liner.jpg" crc="4122837657" ref="portfolio"/>
     <file name="ice-cream.jpg" crc="3931738396" ref="portfolio"/>
@@ -61,12 +61,12 @@
     <file name="rss-feed.png" crc="3921697730" ref="portfolio"/>
     <file name="milena kiseleva 2.jpg" crc="4078455260" ref="about-me"/>
     <file name="pinguin.png" crc="3758782064" ref="404"/>
-    <file name="snowflakes-iner.jpg" crc="4241152242" ref="portfolio"/>
-    <file name="snowflakes-coloured-liner.jpg" crc="47916358" ref="portfolio"/>
+    <file name="snowflakes-coloured-liner.jpg" crc="4231447295" ref="portfolio"/>
+    <file name="snowflakes-liner.jpg" crc="4072092241" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="4097675131" seo="true" mt="1474146809811" redirect="true"/>
   <file name="resume.html" crc="187384343" seo="true" mt="1474146809811" redirect="true"/>
-  <file name="portfolio.html" crc="3791237351" seo="true" mt="1477030816984" redirect="true"/>
+  <file name="portfolio.html" crc="3791237351" seo="true" mt="1477754856139" redirect="true"/>
   <file name="about-me.html" crc="3793955866" seo="true" mt="1474146809811" redirect="true"/>
   <file name="donate.html" crc="3860874805" seo="true" mt="1474146809811" redirect="true"/>
   <file name="contact.html" crc="4269074326" seo="true" mt="1474146809811" redirect="true"/>
