@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000EC;
-	background-color: #7AF8A4;
+	color: #0000FF;
+	background-color: #58BE72;
 }
 
 #muse_css_mq
@@ -542,7 +542,7 @@
 
 #u4546-4
 {
-	z-index: 104;
+	z-index: 101;
 	width: 239px;
 	min-height: 151px;
 	background-color: transparent;
@@ -601,7 +601,7 @@
 
 #u4549-4
 {
-	z-index: 108;
+	z-index: 105;
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
@@ -618,7 +618,7 @@
 
 #u4349
 {
-	z-index: 102;
+	z-index: 99;
 	width: 244px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -645,7 +645,7 @@
 
 #u4552-4
 {
-	z-index: 112;
+	z-index: 109;
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
@@ -693,9 +693,21 @@
 	background-size: cover;
 }
 
+#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
+}
+
 #u4555-4
 {
-	z-index: 116;
+	z-index: 113;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -708,6 +720,15 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
+}
+
+#u4555-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 156px;
+	width: 245px;
+	margin: -1px -10000px 0px 0px;
 }
 
 #ppu4273-4
@@ -741,7 +762,7 @@
 
 #u4522
 {
-	z-index: 103;
+	z-index: 100;
 	width: 68px;
 	min-height: 51px;
 	border-width: 0px;
@@ -789,66 +810,65 @@
 	position: relative;
 }
 
-#pu3847
+#pu5379-4
 {
 	width: 0.01px;
-	margin-left: 79px;
-	margin-top: 16px;
+	margin-left: 78px;
+	margin-top: 22px;
 }
 
-#u3847
+#u5379-4
 {
-	z-index: 90;
+	z-index: 182;
 	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	background: #7F7F7F url("../images/liner-multimedia-buttons.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u3847:hover
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	width: 244px;
-	min-height: 0px;
-	margin: 5px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#u4558-4
-{
-	z-index: 120;
-	width: 245px;
-	min-height: 156px;
-	background-color: transparent;
 	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
 	font-family: bitter, serif;
 	font-weight: 400;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: 1px;
+	background: #7F7F7F url("../images/liner-multimedia-buttons.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u3850
+#u5379-4:hover
 {
-	z-index: 91;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
 	width: 244px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
+#u5371-4
+{
+	z-index: 178;
+	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 269px;
@@ -856,192 +876,152 @@
 	background-size: cover;
 }
 
-#u3850:hover
+#u5371-4:hover
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	background-repeat: no-repeat;
 	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
 	width: 244px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 0px -10000px -1px 0px;
 	background-size: cover;
 }
 
-#u4561-4
+#u5363-4
 {
-	z-index: 124;
-	width: 245px;
-	min-height: 156px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
-}
-
-#u3853
-{
-	z-index: 92;
+	z-index: 174;
 	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
-	position: relative;
-	margin-right: -10000px;
-	left: 537px;
-	background: #7F7F7F url("../images/weather-liner.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u3853:hover
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	width: 244px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background-size: cover;
-}
-
-#u4564-4
-{
-	z-index: 128;
-	width: 245px;
-	min-height: 156px;
-	background-color: transparent;
 	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
 	font-family: bitter, serif;
 	font-weight: 400;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
+	left: 539px;
+	background: #7F7F7F url("../images/weather-liner.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-#u4555-4:hover,#u4558-4:hover,#u4561-4:hover,#u4564-4:hover
+#u5363-4:hover
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center center;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 156px;
-	width: 245px;
-	margin: -1px -10000px 0px 0px;
+	min-height: 154px;
+	width: 244px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
 }
 
-#pu4608
+#pu5355-4
 {
 	width: 0.01px;
 	margin-left: 80px;
 	margin-top: 21px;
 }
 
-#u4608
+#u5355-4
 {
-	z-index: 136;
+	z-index: 170;
 	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
-	padding-bottom: 1px;
-	margin-bottom: -1px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	background: #7F7F7F url("../images/weather-colored-liner.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u4608:hover
+#u5355-4:hover
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	background-repeat: no-repeat;
 	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
 	width: 244px;
-	min-height: 0px;
-	margin: 0px -10000px -1px 0px;
+	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
-#u4619-4
+#u5347-4
 {
-	z-index: 137;
-	width: 245px;
-	min-height: 155px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: -2px;
-}
-
-#u5025
-{
-	z-index: 141;
+	z-index: 166;
 	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
-	padding-bottom: 1px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	left: 269px;
+	margin-top: 1px;
+	left: 268px;
 	background: #7F7F7F url("../images/ice-cream.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u5025:hover
+#u5347-4:hover
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	background-repeat: no-repeat;
 	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
 	width: 244px;
-	min-height: 0px;
-	margin: 0px -10000px -1px 0px;
+	margin: 1px -10000px -1px 0px;
 	background-size: cover;
 }
 
-#u5026-4
+#u5339-4
 {
-	z-index: 142;
-	width: 245px;
-	min-height: 155px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
-}
-
-#u5249
-{
-	z-index: 183;
+	z-index: 162;
 	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
-	padding-bottom: 1px;
-	margin-bottom: -1px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	left: 536px;
@@ -1049,73 +1029,62 @@
 	background-size: cover;
 }
 
-#u5249:hover
+#u5339-4:hover
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	background-repeat: no-repeat;
 	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
 	width: 244px;
-	min-height: 0px;
-	margin: 0px -10000px -1px 0px;
+	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
-#u5250-4
+#u5318-4
 {
-	z-index: 184;
-	width: 245px;
-	min-height: 155px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: 1px;
-}
-
-#u4619-4:hover,#u5026-4:hover,#u5250-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 155px;
-	width: 245px;
-	margin: -1px -10000px 0px 0px;
-}
-
-#u5266
-{
-	z-index: 188;
+	z-index: 158;
 	width: 244px;
+	min-height: 154px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
-	margin-left: 81px;
-	margin-top: 26px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-left: 79px;
+	margin-top: 21px;
 	position: relative;
 	background: #7F7F7F url("../images/snowflakes-coloured-liner.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u5266:hover
+#u5318-4:hover
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	background-repeat: no-repeat;
 	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
 	width: 244px;
-	min-height: 0px;
-	margin: 26px 0px 0px 81px;
+	margin: 21px 0px 0px 79px;
 	background-size: cover;
 }
 
-#u3750:hover::before,#u3749:hover::before,#u4349:hover::before,#u3748:hover::before,#u3847:hover::before,#u3850:hover::before,#u3853:hover::before,#u4608:hover::before,#u5025:hover::before,#u5249:hover::before,#u5266:hover::before
+#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before
 {
 	content: "";
 	position: absolute;
 	pointer-events: none;
+	z-index: -1;
 	top: -1px;
 	left: -1px;
 	bottom: -1px;
@@ -1123,33 +1092,23 @@
 	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
-#u5267-4
+#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p
 {
-	z-index: 189;
-	width: 245px;
-	min-height: 155px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
+	color: #FFFFFF;
+	visibility: inherit;
+	padding-top: 62px;
+	font-size: 19px;
 }
 
-#u5267-4:hover
+#u5347-2,#u5318-2
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 155px;
-	width: 245px;
-	margin: 0px -10000px 0px 0px;
+	padding-top: 62px;
+	visibility: hidden;/* 100% transparent text is hidden */
 }
 
 #u5168-4
 {
-	z-index: 150;
+	z-index: 125;
 	width: 782px;
 	min-height: 34px;
 	background-color: transparent;
@@ -1160,7 +1119,7 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 81px;
-	margin-top: 11px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -1173,7 +1132,7 @@
 
 #u5167
 {
-	z-index: 149;
+	z-index: 124;
 	width: 231px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1201,7 +1160,7 @@
 
 #u5169-4
 {
-	z-index: 154;
+	z-index: 129;
 	width: 238px;
 	min-height: 238px;
 	border-style: solid;
@@ -1222,7 +1181,7 @@
 
 #u5170
 {
-	z-index: 158;
+	z-index: 133;
 	width: 231px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1250,7 +1209,7 @@
 
 #u5171-4
 {
-	z-index: 159;
+	z-index: 134;
 	width: 238px;
 	min-height: 238px;
 	border-style: solid;
@@ -1271,7 +1230,7 @@
 
 #u5172
 {
-	z-index: 163;
+	z-index: 138;
 	width: 231px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1299,7 +1258,7 @@
 
 #u5173-4
 {
-	z-index: 164;
+	z-index: 139;
 	width: 238px;
 	min-height: 238px;
 	border-style: solid;
@@ -1327,7 +1286,7 @@
 
 #u5204
 {
-	z-index: 168;
+	z-index: 143;
 	width: 231px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1355,7 +1314,7 @@
 
 #u5205-4
 {
-	z-index: 169;
+	z-index: 144;
 	width: 238px;
 	min-height: 238px;
 	border-style: solid;
@@ -1376,7 +1335,7 @@
 
 #u5210
 {
-	z-index: 173;
+	z-index: 148;
 	width: 231px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1404,7 +1363,7 @@
 
 #u5211-4
 {
-	z-index: 174;
+	z-index: 149;
 	width: 238px;
 	min-height: 238px;
 	border-style: solid;
@@ -1425,7 +1384,7 @@
 
 #u5216
 {
-	z-index: 178;
+	z-index: 153;
 	width: 231px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1465,7 +1424,7 @@
 
 #u5217-4
 {
-	z-index: 179;
+	z-index: 154;
 	width: 238px;
 	min-height: 238px;
 	border-style: solid;
@@ -1509,7 +1468,7 @@
 
 #u4276-4
 {
-	z-index: 93;
+	z-index: 90;
 	width: 782px;
 	min-height: 37px;
 	background-color: transparent;
@@ -1526,7 +1485,7 @@
 
 #u4277
 {
-	z-index: 97;
+	z-index: 94;
 	width: 245px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1564,7 +1523,7 @@
 
 #u4570-4
 {
-	z-index: 132;
+	z-index: 117;
 	width: 241px;
 	min-height: 158px;
 	background-color: transparent;
@@ -1588,7 +1547,7 @@
 	margin: 3px -10000px 0px 0px;
 }
 
-#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4558-4:hover p,#u4561-4:hover p,#u4564-4:hover p,#u4619-4:hover p,#u5026-4:hover p,#u5250-4:hover p,#u5267-4:hover p,#u4570-4:hover p
+#u4546-4:hover p,#u4549-4:hover p,#u4552-4:hover p,#u4555-4:hover p,#u4570-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1596,7 +1555,7 @@
 	font-size: 19px;
 }
 
-#u4549-2,#u4552-2,#u4555-2,#u4558-2,#u4561-2,#u4564-2,#u4619-2,#u5026-2,#u5250-2,#u5267-2,#u4570-2
+#u4549-2,#u4552-2,#u4555-2,#u5379-2,#u5371-2,#u5363-2,#u5355-2,#u5339-2,#u4570-2
 {
 	padding-top: 60px;
 	visibility: hidden;/* 100% transparent text is hidden */
@@ -1604,7 +1563,7 @@
 
 #u4278-4
 {
-	z-index: 98;
+	z-index: 95;
 	width: 245px;
 	min-height: 23px;
 	background-color: #FFFFFF;
@@ -1620,7 +1579,7 @@
 
 #u5106-3
 {
-	z-index: 146;
+	z-index: 121;
 	width: 782px;
 	min-height: 24px;
 	background-color: transparent;
