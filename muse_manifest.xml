@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1477755882402">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1477756193203">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
@@ -7,7 +7,7 @@
     <file name="master_master.css" crc="4004285034" ref="contact:about-me:portfolio:resume:donate:404:index:contact-thanks:privacy-policy"/>
     <file name="contact.css" crc="3938591042" ref="contact"/>
     <file name="about-me.css" crc="4129821128" ref="about-me"/>
-    <file name="portfolio.css" crc="4284006002" ref="portfolio"/>
+    <file name="portfolio.css" crc="502102579" ref="portfolio"/>
     <file name="website-milenarussianprincess_tk.css" crc="4167242807" ref="website-milenarussianprincess.tk"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
     <file name="resume.css" crc="130561435" ref="resume"/>
@@ -66,7 +66,7 @@
   </folder>
   <file name="index.html" crc="4097675131" seo="true" mt="1474146809811" redirect="true"/>
   <file name="resume.html" crc="187384343" seo="true" mt="1474146809811" redirect="true"/>
-  <file name="portfolio.html" crc="4272631165" seo="true" mt="1477755872620" redirect="true"/>
+  <file name="portfolio.html" crc="4272631165" seo="true" mt="1477756171594" redirect="true"/>
   <file name="about-me.html" crc="3793955866" seo="true" mt="1474146809811" redirect="true"/>
   <file name="donate.html" crc="3860874805" seo="true" mt="1474146809811" redirect="true"/>
   <file name="contact.html" crc="4269074326" seo="true" mt="1474146809811" redirect="true"/>

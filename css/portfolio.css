@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FF;
-	background-color: #58BE72;
+	color: #00001D;
+	background-color: #ED7A33;
 }
 
 #muse_css_mq
@@ -797,7 +797,7 @@
 {
 	z-index: 86;
 	width: 782px;
-	min-height: 37px;
+	min-height: 60px;
 	background-color: transparent;
 	color: #E792C4;
 	line-height: 30px;
@@ -805,8 +805,8 @@
 	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 80px;
-	margin-top: 67px;
+	margin-left: 79px;
+	margin-top: 66px;
 	position: relative;
 }
 
@@ -814,7 +814,6 @@
 {
 	width: 0.01px;
 	margin-left: 78px;
-	margin-top: 22px;
 }
 
 #u5379-4
@@ -1110,7 +1109,7 @@
 {
 	z-index: 125;
 	width: 782px;
-	min-height: 34px;
+	min-height: 60px;
 	background-color: transparent;
 	color: #E792C4;
 	line-height: 30px;
@@ -1118,8 +1117,8 @@
 	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 81px;
-	margin-top: 17px;
+	margin-left: 79px;
+	margin-top: 58px;
 	position: relative;
 }
 
@@ -1127,7 +1126,7 @@
 {
 	width: 0.01px;
 	margin-left: 79px;
-	margin-top: 12px;
+	margin-top: 7px;
 }
 
 #u5167
@@ -1470,7 +1469,7 @@
 {
 	z-index: 90;
 	width: 782px;
-	min-height: 37px;
+	min-height: 60px;
 	background-color: transparent;
 	color: #E792C4;
 	line-height: 30px;
@@ -1478,8 +1477,8 @@
 	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 82px;
-	margin-top: 58px;
+	margin-left: 80px;
+	margin-top: 74px;
 	position: relative;
 }
 
@@ -1492,8 +1491,7 @@
 	border-width: 0px;
 	border-color: transparent;
 	padding-bottom: 2px;
-	margin-left: 350px;
-	margin-top: 18px;
+	margin-left: 349px;
 	position: relative;
 	background: #FFFFFF url("../images/rss-feed.png") no-repeat center top;
 	background-size: contain;
@@ -1505,7 +1503,7 @@
 	background-position: center top;
 	width: 245px;
 	min-height: 0px;
-	margin: 18px 0px 0px 350px;
+	margin: 0px 0px 0px 349px;
 	background-size: contain;
 }
 
@@ -1573,7 +1571,7 @@
 	font-size: 18px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 350px;
+	margin-left: 349px;
 	position: relative;
 }
 
@@ -1589,7 +1587,7 @@
 	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 82px;
+	margin-left: 81px;
 	margin-top: 29px;
 	position: relative;
 }
