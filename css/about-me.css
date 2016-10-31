@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F6;
-	background-color: #2811C8;
+	color: #0000F9;
+	background-color: #671AA7;
 }
 
 #muse_css_mq
@@ -450,7 +450,7 @@
 
 #u3389
 {
-	z-index: 86;
+	z-index: 87;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -465,7 +465,7 @@
 
 #u3395-6
 {
-	z-index: 92;
+	z-index: 93;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -493,7 +493,7 @@
 
 #u2040
 {
-	z-index: 83;
+	z-index: 84;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -508,7 +508,7 @@
 
 #u1291
 {
-	z-index: 84;
+	z-index: 85;
 	width: 237px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -520,7 +520,7 @@
 
 #u1292
 {
-	z-index: 85;
+	z-index: 86;
 	width: 225px;
 	height: 218px;
 	border-radius: 160px;
@@ -548,7 +548,7 @@
 
 #u3391
 {
-	z-index: 88;
+	z-index: 89;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -563,7 +563,7 @@
 
 #u3396-6
 {
-	z-index: 98;
+	z-index: 99;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -585,7 +585,7 @@
 
 #u3390
 {
-	z-index: 87;
+	z-index: 88;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -600,7 +600,7 @@
 
 #u3397-6
 {
-	z-index: 104;
+	z-index: 105;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -622,7 +622,7 @@
 
 #u3392
 {
-	z-index: 89;
+	z-index: 90;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -637,7 +637,7 @@
 
 #u3398-6
 {
-	z-index: 110;
+	z-index: 111;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -650,48 +650,12 @@
 	left: 9px;
 }
 
+#u3395-3,#u3396-3,#u3397-3,#u3398-3
+{
+	color: #7F7F7F;
+}
+
 #u3393
-{
-	z-index: 90;
-	width: 369px;
-	height: 19px;
-	border-style: solid;
-	border-color: #CCCCCC;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 11px;
-	border-width: 0px 0px 1px;
-}
-
-#u3399-7
-{
-	z-index: 116;
-	width: 350px;
-	min-height: 21px;
-	background-color: transparent;
-	text-align: left;
-	color: #534741;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 10px;
-}
-
-#u3399-3
-{
-	color: #FF00FF;
-}
-
-#pu3393,#pu3394
-{
-	width: 0.01px;
-	margin-top: 12px;
-}
-
-#u3394
 {
 	z-index: 91;
 	width: 369px;
@@ -706,9 +670,45 @@
 	border-width: 0px 0px 1px;
 }
 
-#u3400-6
+#u3399-7
 {
-	z-index: 123;
+	z-index: 117;
+	width: 350px;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: left;
+	color: #534741;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 10px;
+}
+
+#pu3393,#pu3394
+{
+	width: 0.01px;
+	margin-top: 12px;
+}
+
+#u3394
+{
+	z-index: 92;
+	width: 369px;
+	height: 19px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	border-width: 0px 0px 1px;
+}
+
+#u3400-7
+{
+	z-index: 124;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -731,14 +731,14 @@
 	color: #534741;
 }
 
-#u3395-3,#u3396-3,#u3397-3,#u3398-3,#u3400-3
+#u3399-3,#u3400-3
 {
-	color: #7F7F7F;
+	color: #FF00FF;
 }
 
-#u1290-14
+#u1290-13
 {
-	z-index: 69;
+	z-index: 71;
 	width: 782px;
 	min-height: 270px;
 	background-color: transparent;
@@ -750,13 +750,13 @@
 	position: relative;
 }
 
-#u1290-2,#u1290-4,#u1290-6,#u1290-7,#u1290-9,#u1290-10,#u1290-11
+#u1290-2,#u1290-3,#u1290-5,#u1290-6,#u1290-8,#u1290-9,#u1290-10
 {
 	font-size: 19px;
 	line-height: 23px;
 }
 
-#u1290-12
+#u1290-11
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -818,11 +818,12 @@
 	padding-left: 80px;
 	padding-top: 30px;
 	padding-bottom: 3px;
+	margin-bottom: -13px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u3252-6
+#u3252-8
 {
 	z-index: 58;
 	width: 782px;
@@ -830,7 +831,7 @@
 	position: relative;
 }
 
-#u3252-6:hover
+#u3252-8:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -841,7 +842,7 @@
 
 #u5246-4
 {
-	z-index: 65;
+	z-index: 67;
 	width: 104px;
 	min-height: 19px;
 	margin-left: 758px;
@@ -860,7 +861,7 @@
 
 #u4305
 {
-	z-index: 64;
+	z-index: 66;
 	width: 33px;
 	min-height: 33px;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000EA;
-	background-color: #C22142;
+	color: #000012;
+	background-color: #8E7312;
 }
 
 #muse_css_mq
@@ -445,12 +445,12 @@
 
 #u1223-5
 {
-	z-index: 70;
+	z-index: 72;
 	width: 782px;
 	min-height: 56px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -463,7 +463,7 @@
 
 #u1221
 {
-	z-index: 69;
+	z-index: 71;
 	width: 764px;
 	min-height: 503px;
 	border-width: 0px;
@@ -529,11 +529,12 @@
 	padding-left: 80px;
 	padding-top: 30px;
 	padding-bottom: 3px;
+	margin-bottom: -13px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u3252-6
+#u3252-8
 {
 	z-index: 58;
 	width: 782px;
@@ -541,7 +542,7 @@
 	position: relative;
 }
 
-#u3252-6:hover
+#u3252-8:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -552,7 +553,7 @@
 
 #u5246-4
 {
-	z-index: 65;
+	z-index: 67;
 	width: 104px;
 	min-height: 19px;
 	margin-left: 758px;
@@ -571,7 +572,7 @@
 
 #u4305
 {
-	z-index: 64;
+	z-index: 66;
 	width: 33px;
 	min-height: 33px;
 	position: relative;
