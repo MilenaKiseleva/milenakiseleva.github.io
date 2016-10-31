@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000003;
-	background-color: #3259FE;
+	color: #0000FE;
+	background-color: #B17F69;
 }
 
 #muse_css_mq
@@ -1048,6 +1048,13 @@
 	background-size: cover;
 }
 
+#pu5318-4
+{
+	width: 0.01px;
+	margin-left: 79px;
+	margin-top: 21px;
+}
+
 #u5318-4
 {
 	z-index: 160;
@@ -1063,9 +1070,8 @@
 	font-size: 17px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 79px;
-	margin-top: 21px;
 	position: relative;
+	margin-right: -10000px;
 	background: #7F7F7F url("../images/snowflakes-coloured-liner.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -1080,11 +1086,49 @@
 	padding-bottom: 0px;
 	min-height: 154px;
 	width: 244px;
-	margin: 21px 0px 0px 79px;
+	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
-#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before
+#u5387-4
+{
+	z-index: 188;
+	width: 244px;
+	min-height: 154px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E792C4;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 269px;
+	background: #7F7F7F url("../images/christmas-tree-ball-with-snowflakes.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5387-4:hover
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 244px;
+	margin: 1px -10000px -1px 0px;
+	background-size: cover;
+}
+
+#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before,#u5387-4:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1097,7 +1141,7 @@
 	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
-#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p
+#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p,#u5387-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1105,7 +1149,7 @@
 	padding-top: 62px;
 }
 
-#u5347-2,#u5318-2
+#u5347-2,#u5318-2,#u5387-2
 {
 	padding-top: 62px;
 	visibility: hidden;/* 100% transparent text is hidden */
