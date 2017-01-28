@@ -190,7 +190,7 @@ a.nontext /* used to override default properties of 'a' tag */
 .subhead-serif
 {
 	color: #8A4810;
-	font-family: gentium-book-basic, sans-serif;
+	font-family: gentium-book-basic, serif;
 	font-size: 16px;
 	font-style: italic;
 	font-weight: 700;
