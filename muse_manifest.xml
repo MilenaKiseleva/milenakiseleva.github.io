@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1485574771798">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1486487008347">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4175211591"/>
-    <file name="master_master.css" crc="3943758335" ref="contact:about-me:portfolio:resume:donate:404:index:contact-thanks:privacy-policy"/>
+    <file name="master_master.css" crc="3862270875" ref="contact:about-me:portfolio:resume:donate:404:index:contact-thanks:privacy-policy"/>
     <file name="contact.css" crc="311325458" ref="contact"/>
     <file name="about-me.css" crc="4184283815" ref="about-me"/>
-    <file name="portfolio.css" crc="3806308794" ref="portfolio"/>
+    <file name="portfolio.css" crc="4168557704" ref="portfolio"/>
     <file name="website-milenarussianprincess_tk.css" crc="4167242807" ref="website-milenarussianprincess.tk"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
     <file name="resume.css" crc="4282480531" ref="resume"/>
@@ -64,13 +64,14 @@
     <file name="snowflakes-liner.jpg" crc="516857407" ref="portfolio"/>
     <file name="christmas-tree-ball-with-snowflakes.jpg" crc="3888711676" ref="portfolio"/>
     <file name="we-are-different-v2.jpg" crc="3958010027" ref="portfolio"/>
-    <file name="we-are-different-v1.jpg" crc="379606521" ref="portfolio"/>
+    <file name="we-are-different-v1.jpg" crc="4044367509" ref="portfolio"/>
     <file name="easter.jpg" crc="324202006" ref="portfolio"/>
     <file name="easter-eggs.jpg" crc="518385383" ref="portfolio"/>
+    <file name="easter-eggs-v2-1.jpg" crc="4033765321" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="4124329580" seo="true" mt="1485574004360" redirect="true"/>
   <file name="resume.html" crc="480682321" seo="true" mt="1485574004360" redirect="true"/>
-  <file name="portfolio.html" crc="4013295459" seo="true" mt="1485574579666" redirect="true"/>
+  <file name="portfolio.html" crc="3939272188" seo="true" mt="1486486957088" redirect="true"/>
   <file name="about-me.html" crc="122652215" seo="true" mt="1485574004360" redirect="true"/>
   <file name="donate.html" crc="86415616" seo="true" mt="1485574004360" redirect="true"/>
   <file name="contact.html" crc="245022879" seo="true" mt="1485574004360" redirect="true"/>
