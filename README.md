@@ -43,8 +43,8 @@ Milena Kiseleva
 ---
 #### Technologies:
 
-[![Adobe Muse](http://mycyberuniverse.com/public-files/temp/Adobe-Muse.png)]()
-[![HTML5](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-64.png)]()
-[![CSS3](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-64.png)]()
-[![JS](http://mycyberuniverse.com/public-files/temp/JavaScript.png)]()
-[![JQuery](http://mycyberuniverse.com/public-files/temp/jQurery.png)]()
+[![Adobe Muse](http://mycyberuniverse.com/public-files/images/logos/Adobe-Muse.png)]()
+[![HTML5](http://mycyberuniverse.com/public-files/images/logos/HTML5.png)]()
+[![CSS3](http://mycyberuniverse.com/public-files/images/logos/CSS3.png)]()
+[![JS](http://mycyberuniverse.com/public-files/images/logos/JavaScript.png)]()
+[![JQuery](http://mycyberuniverse.com/public-files/images/logos/jQurery.png)]()
