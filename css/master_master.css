@@ -192,11 +192,6 @@
 	cursor: pointer;
 }
 
-#u3104
-{
-	background-color: #333333;
-}
-
 #u4273-4
 {
 	display: block;
@@ -223,6 +218,11 @@
 {
 	font-size: 13px;
 	line-height: 16px;
+}
+
+#u3104
+{
+	background-color: #333333;
 }
 
 #u3090,#u3093
