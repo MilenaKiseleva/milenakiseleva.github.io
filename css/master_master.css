@@ -192,6 +192,11 @@
 	cursor: pointer;
 }
 
+#u3104
+{
+	background-color: #333333;
+}
+
 #u4273-4
 {
 	display: block;
@@ -220,11 +225,6 @@
 	line-height: 16px;
 }
 
-#u3104
-{
-	background-color: #333333;
-}
-
 #u3090,#u3093
 {
 	background-color: #242424;
@@ -233,10 +233,10 @@
 #u3252-8
 {
 	background-color: transparent;
-	text-align: center;
-	font-size: 13px;
 	color: #FFFFFF;
 	line-height: 16px;
+	text-align: center;
+	font-size: 13px;
 	font-family: bitter, serif;
 	font-weight: 400;
 }
@@ -250,10 +250,10 @@
 #u5246-4
 {
 	background-color: transparent;
-	text-align: center;
-	font-size: 13px;
 	color: #E792C4;
 	line-height: 16px;
+	text-align: center;
+	font-size: 13px;
 	font-family: bitter, serif;
 	font-weight: 400;
 }

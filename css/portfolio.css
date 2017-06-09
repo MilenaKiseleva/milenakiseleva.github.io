@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F8;
-	background-color: #772488;
+	color: #0000FF;
+	background-color: #C933EC;
 }
 
 #muse_css_mq
@@ -552,9 +552,9 @@
 	width: 239px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -611,9 +611,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -655,9 +655,9 @@
 	width: 245px;
 	min-height: 151px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -717,9 +717,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -813,10 +813,10 @@
 	width: 782px;
 	min-height: 60px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 25px;
 	color: #E792C4;
 	line-height: 30px;
+	text-align: center;
+	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 79px;
@@ -840,9 +840,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -876,9 +876,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -913,9 +913,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -957,9 +957,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -992,9 +992,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1030,9 +1030,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1079,9 +1079,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -1114,9 +1114,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1152,9 +1152,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1180,13 +1180,6 @@
 	background-size: cover;
 }
 
-#pu5409-4
-{
-	width: 0.01px;
-	margin-left: 78px;
-	margin-top: 21px;
-}
-
 #u5409-4
 {
 	z-index: 183;
@@ -1197,9 +1190,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1233,9 +1226,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1270,9 +1263,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1297,6 +1290,13 @@
 	background-size: cover;
 }
 
+#pu5409-4,#pu5450-4
+{
+	width: 0.01px;
+	margin-left: 78px;
+	margin-top: 21px;
+}
+
 #u5450-4
 {
 	z-index: 195;
@@ -1307,14 +1307,15 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #E792C4;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-left: 78px;
-	margin-top: 22px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
 	background: #7F7F7F url("../images/easter-eggs-v2-1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -1329,11 +1330,83 @@
 	padding-bottom: 0px;
 	min-height: 154px;
 	width: 244px;
-	margin: 22px 0px 0px 78px;
+	margin: 1px -10000px -1px 0px;
 	background-size: cover;
 }
 
-#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before,#u5387-4:hover::before,#u5398-4:hover::before,#u5409-4:hover::before,#u5412-4:hover::before,#u5415-4:hover::before,#u5450-4:hover::before
+#u5461-4
+{
+	z-index: 199;
+	width: 244px;
+	min-height: 154px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E792C4;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 269px;
+	background: #7F7F7F url("../images/travel-69.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5461-4:hover
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 244px;
+	margin: 0px -10000px 0px 0px;
+	background-size: cover;
+}
+
+#u5464-4
+{
+	z-index: 203;
+	width: 244px;
+	min-height: 154px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E792C4;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 538px;
+	background: #7F7F7F url("../images/liner-multimedia-buttons-1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5464-4:hover
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 244px;
+	margin: 0px -10000px 0px 0px;
+	background-size: cover;
+}
+
+#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before,#u5387-4:hover::before,#u5398-4:hover::before,#u5409-4:hover::before,#u5412-4:hover::before,#u5415-4:hover::before,#u5450-4:hover::before,#u5461-4:hover::before,#u5464-4:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1346,7 +1419,7 @@
 	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
-#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p,#u5387-4:hover p,#u5398-4:hover p,#u5409-4:hover p,#u5412-4:hover p,#u5415-4:hover p,#u5450-4:hover p
+#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p,#u5387-4:hover p,#u5398-4:hover p,#u5409-4:hover p,#u5412-4:hover p,#u5415-4:hover p,#u5450-4:hover p,#u5461-4:hover p,#u5464-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1354,7 +1427,7 @@
 	padding-top: 62px;
 }
 
-#u5347-2,#u5318-2,#u5387-2,#u5398-2,#u5409-2,#u5412-2,#u5415-2,#u5450-2
+#u5347-2,#u5318-2,#u5387-2,#u5398-2,#u5409-2,#u5412-2,#u5415-2,#u5450-2,#u5461-2,#u5464-2
 {
 	padding-top: 62px;
 	visibility: hidden;/* 100% transparent text is hidden */
@@ -1366,14 +1439,14 @@
 	width: 782px;
 	min-height: 60px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 25px;
 	color: #E792C4;
 	line-height: 30px;
+	text-align: center;
+	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 80px;
-	margin-top: 89px;
+	margin-top: 90px;
 	position: relative;
 }
 
@@ -1421,9 +1494,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1470,9 +1543,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1519,9 +1592,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1575,9 +1648,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1624,9 +1697,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1685,9 +1758,9 @@
 	border-width: 1px;
 	border-color: #E792C4;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -5px;
@@ -1726,10 +1799,10 @@
 	width: 782px;
 	min-height: 24px;
 	background-color: transparent;
-	text-align: left;
-	font-size: 20px;
 	color: #000000;
 	line-height: 24px;
+	text-align: left;
+	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 81px;
