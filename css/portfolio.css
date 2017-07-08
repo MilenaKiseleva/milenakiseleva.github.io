@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000008;
-	background-color: #213C8F;
+	color: #000007;
+	background-color: #DC358D;
 }
 
 #muse_css_mq
@@ -741,8 +741,8 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	padding-top: 80px;
 	font-size: 19px;
+	padding-top: 80px;
 }
 
 #ppu4273-4
@@ -751,6 +751,11 @@
 	margin-right: -10000px;
 	margin-top: 16px;
 	margin-left: 992px;
+}
+
+#pu3750,#pu4273-4
+{
+	width: 0.01px;
 }
 
 #u4273-4
@@ -813,8 +818,8 @@
 	width: 782px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 30px;
 	color: #E792C4;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
 	font-family: bitter, serif;
@@ -1517,7 +1522,43 @@
 	background-size: cover;
 }
 
-#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before,#u5387-4:hover::before,#u5398-4:hover::before,#u5409-4:hover::before,#u5412-4:hover::before,#u5415-4:hover::before,#u5450-4:hover::before,#u5461-4:hover::before,#u5464-4:hover::before,#u5483-4:hover::before,#u5486-4:hover::before,#u5489-4:hover::before
+#u5516-4
+{
+	z-index: 219;
+	width: 244px;
+	min-height: 154px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E792C4;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-left: 78px;
+	margin-top: 23px;
+	position: relative;
+	background: #7F7F7F url("../images/social-life.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5516-4:hover
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 244px;
+	margin: 23px 0px 0px 78px;
+	background-size: cover;
+}
+
+#u5379-4:hover::before,#u5371-4:hover::before,#u5363-4:hover::before,#u5355-4:hover::before,#u5347-4:hover::before,#u5339-4:hover::before,#u5318-4:hover::before,#u5387-4:hover::before,#u5398-4:hover::before,#u5409-4:hover::before,#u5412-4:hover::before,#u5415-4:hover::before,#u5450-4:hover::before,#u5461-4:hover::before,#u5464-4:hover::before,#u5483-4:hover::before,#u5486-4:hover::before,#u5489-4:hover::before,#u5516-4:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1530,15 +1571,15 @@
 	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
-#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p,#u5387-4:hover p,#u5398-4:hover p,#u5409-4:hover p,#u5412-4:hover p,#u5415-4:hover p,#u5450-4:hover p,#u5461-4:hover p,#u5464-4:hover p,#u5483-4:hover p,#u5486-4:hover p,#u5489-4:hover p
+#u5379-4:hover p,#u5371-4:hover p,#u5363-4:hover p,#u5355-4:hover p,#u5347-4:hover p,#u5339-4:hover p,#u5318-4:hover p,#u5387-4:hover p,#u5398-4:hover p,#u5409-4:hover p,#u5412-4:hover p,#u5415-4:hover p,#u5450-4:hover p,#u5461-4:hover p,#u5464-4:hover p,#u5483-4:hover p,#u5486-4:hover p,#u5489-4:hover p,#u5516-4:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	padding-top: 62px;
 	font-size: 19px;
+	padding-top: 62px;
 }
 
-#u5347-2,#u5318-2,#u5387-2,#u5398-2,#u5409-2,#u5412-2,#u5415-2,#u5450-2,#u5461-2,#u5464-2,#u5483-2,#u5486-2,#u5489-2
+#u5347-2,#u5318-2,#u5387-2,#u5398-2,#u5409-2,#u5412-2,#u5415-2,#u5450-2,#u5461-2,#u5464-2,#u5483-2,#u5486-2,#u5489-2,#u5516-2
 {
 	padding-top: 62px;
 	visibility: hidden;/* 100% transparent text is hidden */
@@ -1550,14 +1591,14 @@
 	width: 782px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 30px;
 	color: #E792C4;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 80px;
-	margin-top: 23px;
+	margin-top: 32px;
 	position: relative;
 }
 
@@ -1565,7 +1606,7 @@
 {
 	width: 0.01px;
 	margin-left: 80px;
-	margin-top: 7px;
+	margin-top: 5px;
 }
 
 #u5167
@@ -1715,11 +1756,29 @@
 	left: -4px;
 }
 
-#pu5204
+#pu5106-3
 {
 	width: 0.01px;
 	margin-left: 80px;
 	margin-top: 25px;
+}
+
+#u5106-3
+{
+	z-index: 110;
+	width: 782px;
+	min-height: 24px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 24px;
+	text-align: left;
+	font-size: 20px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 196px;
+	left: 1px;
 }
 
 #u5204
@@ -1894,8 +1953,8 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	padding-top: 105px;
 	font-size: 19px;
+	padding-top: 105px;
 }
 
 #u5169-2,#u5171-2,#u5173-2,#u5205-2,#u5211-2,#u5217-2
@@ -1904,26 +1963,10 @@
 	visibility: hidden;/* 100% transparent text is hidden */
 }
 
-#u5106-3
-{
-	z-index: 110;
-	width: 782px;
-	min-height: 24px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #000000;
-	text-align: left;
-	font-size: 20px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	margin-left: 81px;
-	margin-top: 137px;
-	position: relative;
-}
-
-#pu3750,#pu4273-4,#pu3093
+#pu3093
 {
 	width: 0.01px;
+	margin-top: 7px;
 }
 
 #u3093
