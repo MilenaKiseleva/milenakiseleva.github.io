@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1499528198862">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1499586619785">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4175211591"/>
-    <file name="master_master.css" crc="3962171064" ref="about-me:portfolio:donate:contact:privacy-policy:index:resume:contact-thanks:404"/>
+    <file name="master_master.css" crc="489924599" ref="about-me:portfolio:donate:contact:privacy-policy:index:resume:contact-thanks:404"/>
     <file name="about-me.css" crc="4184283815" ref="about-me"/>
-    <file name="portfolio.css" crc="131872141" ref="portfolio"/>
+    <file name="portfolio.css" crc="438552748" ref="portfolio"/>
     <file name="website-milenakiseleva_blogspot_com.css" crc="3987955744" ref="website-milenakiseleva.blogspot.com"/>
     <file name="donate.css" crc="4079139016" ref="donate"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
@@ -74,10 +74,11 @@
     <file name="milena kiseleva 2.jpg" crc="4078455260" ref="about-me"/>
     <file name="pinguin.png" crc="3758782064" ref="404"/>
     <file name="social-life.jpg" crc="3964673796" ref="portfolio"/>
+    <file name="birthday-5.jpg" crc="230738712" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="4124329580" seo="true" mt="1485574004360" redirect="true"/>
   <file name="resume.html" crc="480682321" seo="true" mt="1485574004360" redirect="true"/>
-  <file name="portfolio.html" crc="3890664600" seo="true" mt="1499528166111" redirect="true"/>
+  <file name="portfolio.html" crc="4090266716" seo="true" mt="1499586479763" redirect="true"/>
   <file name="about-me.html" crc="122652215" seo="true" mt="1485574004360" redirect="true"/>
   <file name="donate.html" crc="86415616" seo="true" mt="1485574004360" redirect="true"/>
   <file name="contact.html" crc="245022879" seo="true" mt="1485574004360" redirect="true"/>
