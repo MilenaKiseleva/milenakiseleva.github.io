@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1499597287884">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1499597467986">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="42287167"/>
-    <file name="master_master.css" crc="3847799799" ref="about-me:portfolio:donate:contact:privacy-policy:index:resume:contact-thanks:404"/>
+    <file name="master_master.css" crc="3862270875" ref="about-me:portfolio:donate:contact:privacy-policy:index:resume:contact-thanks:404"/>
     <file name="about-me.css" crc="4184283815" ref="about-me"/>
-    <file name="portfolio.css" crc="3991750568" ref="portfolio"/>
+    <file name="portfolio.css" crc="104170079" ref="portfolio"/>
     <file name="website-milenakiseleva_blogspot_com.css" crc="3987955744" ref="website-milenakiseleva.blogspot.com"/>
     <file name="donate.css" crc="4079139016" ref="donate"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
@@ -50,7 +50,7 @@
     <file name="liner-multimedia-buttons.jpg" crc="502858356" ref="portfolio"/>
     <file name="different-genders.jpg" crc="145188845" ref="portfolio"/>
     <file name="weather-liner.jpg" crc="3809001939" ref="portfolio"/>
-    <file name="weather-colored-liner.jpg" crc="4144995709" ref="portfolio"/>
+    <file name="weather-colored-liner.jpg" crc="3799811425" ref="portfolio"/>
     <file name="ice-cream.jpg" crc="153145721" ref="portfolio"/>
     <file name="snowflakes-liner.jpg" crc="516857407" ref="portfolio"/>
     <file name="snowflakes-coloured-liner.jpg" crc="4113314062" ref="portfolio"/>
@@ -78,7 +78,7 @@
   </folder>
   <file name="index.html" crc="4124329580" seo="true" mt="1485574004360" redirect="true"/>
   <file name="resume.html" crc="480682321" seo="true" mt="1485574004360" redirect="true"/>
-  <file name="portfolio.html" crc="174195271" seo="true" mt="1499597276365" redirect="true"/>
+  <file name="portfolio.html" crc="174195271" seo="true" mt="1499597453726" redirect="true"/>
   <file name="about-me.html" crc="122652215" seo="true" mt="1485574004360" redirect="true"/>
   <file name="donate.html" crc="86415616" seo="true" mt="1485574004360" redirect="true"/>
   <file name="contact.html" crc="245022879" seo="true" mt="1485574004360" redirect="true"/>
