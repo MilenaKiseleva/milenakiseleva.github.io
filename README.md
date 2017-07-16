@@ -7,6 +7,10 @@ Personal website of Milena Kiseleva.
 This is the code for my personal website - [milenakiseleva.github.io](https://milenakiseleva.github.io) - it's a static site built with Adobe Muse.
 
 
+## DON'T CLONE THIS REPO!
+### THE SPACEX-CHIMP WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
+
+
 ## Under the hood
 
 #### Hosting
