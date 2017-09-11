@@ -1,0 +1,108 @@
+.version._451 /* version checker */
+{
+	color: #0000E5;
+	background-color: #EEB9BE;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1060px;
+	min-height: 639px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 67px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u5605-4
+{
+	z-index: 2;
+	width: 1060px;
+	min-height: 43px;
+	background-color: transparent;
+	color: #C2392D;
+	text-align: center;
+	font-size: 34px;
+	line-height: 41px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u5609-4
+{
+	z-index: 6;
+	width: 1060px;
+	min-height: 132px;
+	background-color: transparent;
+	color: #C2392D;
+	text-align: center;
+	font-size: 150px;
+	line-height: 180px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u5612-6
+{
+	z-index: 10;
+	width: 1060px;
+	min-height: 101px;
+	background-color: transparent;
+	color: #C2392D;
+	text-align: center;
+	font-size: 35px;
+	line-height: 42px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u5616
+{
+	z-index: 16;
+	width: 174px;
+	background-color: transparent;
+	margin-left: 443px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u5626-4
+{
+	z-index: 18;
+	width: 291px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	color: #8F8E8C;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 769px;
+	margin-top: 50px;
+	position: relative;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/noise.jpg") repeat left top scroll;
+}
+
+body
+{
+	position: relative;
+	min-width: 1060px;
+}
+

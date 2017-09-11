@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F9;
-	background-color: #671AA7;
+	color: #00001B;
+	background-color: #B7F9BA;
 }
 
 #muse_css_mq
@@ -40,7 +40,7 @@
 
 #u3237-6
 {
-	z-index: 52;
+	z-index: 43;
 	width: 308px;
 	min-height: 83px;
 	margin-left: 270px;
@@ -450,7 +450,7 @@
 
 #u3389
 {
-	z-index: 87;
+	z-index: 74;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -465,7 +465,7 @@
 
 #u3395-6
 {
-	z-index: 93;
+	z-index: 79;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -493,7 +493,7 @@
 
 #u2040
 {
-	z-index: 84;
+	z-index: 71;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -508,7 +508,7 @@
 
 #u1291
 {
-	z-index: 85;
+	z-index: 72;
 	width: 237px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -520,7 +520,7 @@
 
 #u1292
 {
-	z-index: 86;
+	z-index: 73;
 	width: 225px;
 	height: 218px;
 	border-radius: 160px;
@@ -537,18 +537,18 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 13px;
-	margin-left: 321px;
+	margin-left: 322px;
 }
 
 #pu3391
 {
 	width: 0.01px;
-	margin-left: 3px;
+	margin-left: 1px;
 }
 
 #u3391
 {
-	z-index: 89;
+	z-index: 76;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -563,7 +563,7 @@
 
 #u3396-6
 {
-	z-index: 99;
+	z-index: 85;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -579,13 +579,12 @@
 #pu3390
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 12px;
 }
 
 #u3390
 {
-	z-index: 88;
+	z-index: 75;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -600,7 +599,7 @@
 
 #u3397-6
 {
-	z-index: 105;
+	z-index: 91;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -616,13 +615,12 @@
 #pu3392
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 11px;
 }
 
 #u3392
 {
-	z-index: 90;
+	z-index: 77;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -637,7 +635,7 @@
 
 #u3398-6
 {
-	z-index: 111;
+	z-index: 97;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -655,45 +653,15 @@
 	color: #7F7F7F;
 }
 
-#u3393
-{
-	z-index: 91;
-	width: 369px;
-	height: 19px;
-	border-style: solid;
-	border-color: #CCCCCC;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 11px;
-	border-width: 0px 0px 1px;
-}
-
-#u3399-7
-{
-	z-index: 117;
-	width: 350px;
-	min-height: 21px;
-	background-color: transparent;
-	text-align: left;
-	color: #534741;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 10px;
-}
-
-#pu3393,#pu3394
+#pu3394
 {
 	width: 0.01px;
-	margin-top: 12px;
+	margin-top: 22px;
 }
 
 #u3394
 {
-	z-index: 92;
+	z-index: 78;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -702,13 +670,13 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 11px;
+	margin-top: 10px;
 	border-width: 0px 0px 1px;
 }
 
 #u3400-7
 {
-	z-index: 124;
+	z-index: 103;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -721,7 +689,7 @@
 	left: 9px;
 }
 
-#u3395,#u3396,#u3397,#u3398,#u3399,#u3400
+#u3395,#u3396,#u3397,#u3398,#u3400
 {
 	color: #E792C4;
 }
@@ -731,14 +699,14 @@
 	color: #534741;
 }
 
-#u3399-3,#u3400-3
+#u3400-3
 {
 	color: #FF00FF;
 }
 
 #u1290-13
 {
-	z-index: 71;
+	z-index: 58;
 	width: 782px;
 	min-height: 270px;
 	background-color: transparent;
@@ -782,35 +750,6 @@
 	left: 50px;
 }
 
-#pu4273-4
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 167px;
-	margin-left: 942px;
-}
-
-#u4273-4
-{
-	z-index: 43;
-	margin-bottom: -8px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
-}
-
-#u3222-5
-{
-	z-index: 47;
-	width: 114px;
-	min-height: 19px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 64px;
-	left: -44px;
-}
-
 #u3093
 {
 	z-index: 3;
@@ -818,20 +757,19 @@
 	padding-left: 80px;
 	padding-top: 30px;
 	padding-bottom: 3px;
-	margin-bottom: -13px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u3252-8
+#u3252-4
 {
-	z-index: 58;
+	z-index: 49;
 	width: 782px;
 	min-height: 19px;
 	position: relative;
 }
 
-#u3252-8:hover
+#u3252-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -842,7 +780,7 @@
 
 #u5246-4
 {
-	z-index: 67;
+	z-index: 54;
 	width: 104px;
 	min-height: 19px;
 	margin-left: 758px;
@@ -861,7 +799,7 @@
 
 #u4305
 {
-	z-index: 66;
+	z-index: 53;
 	width: 33px;
 	min-height: 33px;
 	position: relative;
