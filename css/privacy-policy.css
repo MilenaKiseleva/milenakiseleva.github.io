@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000F0;
-	background-color: #39078F;
+	color: #000008;
+	background-color: #34E0B3;
 }
 
 #muse_css_mq
@@ -443,7 +443,7 @@
 
 #u1251-4
 {
-	z-index: 121;
+	z-index: 122;
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
@@ -460,7 +460,7 @@
 
 #u1252
 {
-	z-index: 125;
+	z-index: 126;
 	width: 782px;
 	height: 16px;
 	border-style: solid;
@@ -475,7 +475,7 @@
 
 #u1250-63
 {
-	z-index: 58;
+	z-index: 59;
 	width: 782px;
 	min-height: 834px;
 	background-color: transparent;
@@ -530,6 +530,17 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 50px;
+}
+
+#u5629
+{
+	z-index: 58;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 612px;
+	left: 963px;
 }
 
 #u3093

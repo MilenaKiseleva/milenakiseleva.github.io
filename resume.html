@@ -11,8 +11,8 @@
   <title>RESUME</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4175211591"/>
-  <link rel="stylesheet" type="text/css" href="css/master_master.css?528144868"/>
-  <link rel="stylesheet" type="text/css" href="css/resume.css?4128717185" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_master.css?4273232883"/>
+  <link rel="stylesheet" type="text/css" href="css/resume.css?196415586" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?484399037"/>
@@ -500,6 +500,172 @@ background-color:#222222}
      <div class="grpelem" id="u3104"><!-- simple frame --></div>
     </div>
    </div>
+   <div class="grpelem" id="u5629"><!-- custom html -->
+    <script>
+<script>
+function defer(method) {
+    if (window.jQuery) {
+        method();
+    } else {
+        setTimeout(function() { defer(method) }, 50);
+    }
+}
+
+defer( function () {
+
+$.getJSON('https://freegeoip.net/json/', function(data) {
+
+    // Get data from the FreeGeoIP.net service
+    var visitor_ip = data.ip;
+    var visitor_country = data.country_name;
+    var visitor_country_code = data.country_code;
+
+    // Target URL
+    var target_url = "https://milenakiseleva.github.io/451.html";
+
+    // List of countries
+    var list_countries_various = [
+            "RU",
+            "ER",
+            "IR",
+            "IQ",
+            "LB",
+            "LY",
+            "EG",
+            "SY",
+            "KP",
+            "CF",
+            "CD",
+            "SO",
+            "SS",
+            "SD",
+            "TN",
+            "YE",
+            "ZW",
+            "CN",
+            "TR"
+    ];
+    var list_countries_arab = [
+            "QA",
+            "PS",
+            "KW",
+            "BH",
+            "JO",
+            "SA",
+            "LB",
+            "AE",
+            "OM",
+            "LY",
+            "SY",
+            "IQ",
+            "TN",
+            "KM",
+            "DZ",
+            "SD",
+            "EG",
+            "YE",
+            "DJ",
+            "MA",
+            "MR",
+            "SO",
+            "IR"
+    ];
+    var list_countries_africa = [
+            "AO",
+            "BF",
+            "BI",
+            "BJ",
+            "BW",
+            "CD",
+            "CF",
+            "CG",
+            "CI",
+            "CM",
+            "CV",
+            "DJ",
+            "DZ",
+            "EG",
+            "EH",
+            "ER",
+            "ET",
+            "GA",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GW",
+            "KE",
+            "KM",
+            "LR",
+            "LS",
+            "LY",
+            "MA",
+            "MG",
+            "ML",
+            "MR",
+            "MU",
+            "MW",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "RE",
+            "RW",
+            "SC",
+            "SD",
+            "SH",
+            "SL",
+            "SN",
+            "SO",
+            "SS",
+            "ST",
+            "SZ",
+            "TD",
+            "TG",
+            "TN",
+            "TZ",
+            "UG",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+    ];
+
+    /*
+    // Merge arrays with list of countries and Remove duplicates
+    function arrayUnique( array ) {
+        var a = array.concat();
+        for ( var i = 0; i < a.length; ++i ) {
+            for ( var j = i+1; j < a.length; ++j ) {
+                if ( a[i] === a[j] )
+                    a.splice( j--, 1 );
+            }
+        }
+        return a;
+    }
+    var list_countries = arrayUnique( list_countries_various.concat( list_countries_arab, list_countries_africa ) );
+    */
+
+    // Merge arrays with list of countries
+    var list_countries = list_countries_various.concat( list_countries_arab, list_countries_africa );
+
+    // Loop through array with list of countries
+    for ( i = 0; i < list_countries.length; i++ ) {
+
+        // Check if visitors country is on the list
+        if ( visitor_country_code == list_countries[i] ) {
+
+            // Redirect visitors
+            window.location.replace(target_url);
+            //window.location.href = target_url;
+        }
+    }
+});
+
+});
+</script>
+</script>
+</div>
    <div class="verticalspacer"></div>
    <div class="clearfix grpelem" id="u3093"><!-- column -->
     <div class="clearfix colelem" id="u3252-4"><!-- content -->

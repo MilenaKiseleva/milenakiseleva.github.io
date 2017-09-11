@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000F6;
-	background-color: #173981;
+	color: #00000B;
+	background-color: #B51062;
 }
 
 #muse_css_mq
@@ -444,7 +444,7 @@
 
 #u1253-121
 {
-	z-index: 58;
+	z-index: 59;
 	width: 782px;
 	min-height: 539px;
 	background-color: transparent;
@@ -708,7 +708,7 @@
 
 #slideshowu4628
 {
-	z-index: 179;
+	z-index: 180;
 	width: 0.01px;
 	height: 284px;
 	position: relative;
@@ -732,12 +732,12 @@
 
 #u4651popup
 {
-	z-index: 180;
+	z-index: 181;
 }
 
 #u4652
 {
-	z-index: 181;
+	z-index: 182;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -765,12 +765,12 @@
 
 #u4631popup
 {
-	z-index: 183;
+	z-index: 184;
 }
 
 #u4638
 {
-	z-index: 184;
+	z-index: 185;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -806,7 +806,7 @@
 
 #u4650-4popup
 {
-	z-index: 186;
+	z-index: 187;
 }
 
 #u4663-4
@@ -825,7 +825,7 @@
 
 #u4663-4popup
 {
-	z-index: 190;
+	z-index: 191;
 }
 
 #u4642
@@ -858,7 +858,7 @@
 
 #u4643-4
 {
-	z-index: 195;
+	z-index: 196;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
@@ -902,6 +902,17 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 50px;
+}
+
+#u5629
+{
+	z-index: 58;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 612px;
+	left: 963px;
 }
 
 #u3093
