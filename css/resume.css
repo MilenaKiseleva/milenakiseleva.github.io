@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #00000B;
-	background-color: #B51062;
+	color: #000001;
+	background-color: #F58B40;
 }
 
 #muse_css_mq
@@ -444,7 +444,7 @@
 
 #u1253-121
 {
-	z-index: 59;
+	z-index: 58;
 	width: 782px;
 	min-height: 539px;
 	background-color: transparent;
@@ -708,7 +708,7 @@
 
 #slideshowu4628
 {
-	z-index: 180;
+	z-index: 179;
 	width: 0.01px;
 	height: 284px;
 	position: relative;
@@ -732,12 +732,12 @@
 
 #u4651popup
 {
-	z-index: 181;
+	z-index: 180;
 }
 
 #u4652
 {
-	z-index: 182;
+	z-index: 181;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -765,12 +765,12 @@
 
 #u4631popup
 {
-	z-index: 184;
+	z-index: 183;
 }
 
 #u4638
 {
-	z-index: 185;
+	z-index: 184;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -796,9 +796,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: -45px;
@@ -806,7 +806,7 @@
 
 #u4650-4popup
 {
-	z-index: 187;
+	z-index: 186;
 }
 
 #u4663-4
@@ -815,9 +815,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: 1160px;
@@ -825,7 +825,7 @@
 
 #u4663-4popup
 {
-	z-index: 191;
+	z-index: 190;
 }
 
 #u4642
@@ -858,15 +858,15 @@
 
 #u4643-4
 {
-	z-index: 196;
+	z-index: 195;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -902,17 +902,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 50px;
-}
-
-#u5629
-{
-	z-index: 58;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 612px;
-	left: 963px;
 }
 
 #u3093

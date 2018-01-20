@@ -1,24 +1,24 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1505145016787">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1516449404349">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4175211591"/>
-    <file name="master_master.css" crc="4273232883" ref="about-me:portfolio:donate:contact:privacy-policy:index:resume:contact-thanks:404"/>
-    <file name="about-me.css" crc="204227822" ref="about-me"/>
-    <file name="portfolio.css" crc="355797097" ref="portfolio"/>
+    <file name="master_master.css" crc="520183164" ref="about-me:portfolio:donate:contact:privacy-policy:index:resume:contact-thanks:404"/>
+    <file name="about-me.css" crc="465041850" ref="about-me"/>
+    <file name="portfolio.css" crc="3937368960" ref="portfolio"/>
     <file name="website-milenakiseleva_blogspot_com.css" crc="3987955744" ref="website-milenakiseleva.blogspot.com"/>
-    <file name="donate.css" crc="3916690817" ref="donate"/>
+    <file name="donate.css" crc="106461932" ref="donate"/>
     <file name="website-milenakiseleva_github_io.css" crc="40320799" ref="website-milenakiseleva.github.io"/>
-    <file name="contact.css" crc="4045094733" ref="contact"/>
+    <file name="contact.css" crc="161136043" ref="contact"/>
     <file name="website-karolinaray_tk.css" crc="73076901" ref="website-karolinaray.tk"/>
-    <file name="privacy-policy.css" crc="137683123" ref="privacy-policy"/>
-    <file name="index.css" crc="132491468" ref="index"/>
+    <file name="privacy-policy.css" crc="47835854" ref="privacy-policy"/>
+    <file name="index.css" crc="3792645420" ref="index"/>
     <file name="website-milenarussianprincess_tk.css" crc="4167242807" ref="website-milenarussianprincess.tk"/>
-    <file name="resume.css" crc="196415586" ref="resume"/>
+    <file name="resume.css" crc="32869184" ref="resume"/>
     <file name="iefonts_resume.css" crc="484399037" ref="resume"/>
-    <file name="contact-thanks.css" crc="3761980382" ref="contact-thanks"/>
-    <file name="404.css" crc="4026165227" ref="404"/>
+    <file name="contact-thanks.css" crc="3821142554" ref="contact-thanks"/>
+    <file name="404.css" crc="3941442407" ref="404"/>
     <file name="iefonts_404.css" crc="3796617480" ref="404"/>
     <file name="451.css" crc="3857627582" ref="451"/>
     <file name="iefonts_451.css" crc="3865775828" ref="451"/>
@@ -79,15 +79,15 @@
     <file name="lock.jpg" crc="4115236169" seo="true" ref="451"/>
     <file name="noise.jpg" crc="3766357177" ref="451"/>
   </folder>
-  <file name="index.html" crc="14497445" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="resume.html" crc="4148406220" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="portfolio.html" crc="450060648" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="about-me.html" crc="3807805686" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="donate.html" crc="3841264459" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="contact.html" crc="4078018089" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="privacy-policy.html" crc="508664829" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="contact-thanks.html" crc="4009617730" seo="true" mt="1505145006151" redirect="true"/>
-  <file name="404.html" crc="135845914" seo="true" mt="1505145006151" redirect="true"/>
+  <file name="index.html" crc="4076659921" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="resume.html" crc="405006053" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="portfolio.html" crc="4135176297" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="about-me.html" crc="398868328" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="donate.html" crc="3790709713" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="contact.html" crc="261042733" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="privacy-policy.html" crc="228695872" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="contact-thanks.html" crc="293438850" seo="true" mt="1516449389095" redirect="true"/>
+  <file name="404.html" crc="4152183801" seo="true" mt="1516449389095" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="4081728189" seo="true" mt="1456908308681" redirect="true"/>
   <file name="website-milenakiseleva.blogspot.com.html" crc="450734852" seo="true" mt="1456910098617" redirect="true"/>
   <file name="website-karolinaray.tk.html" crc="3855349858" seo="true" mt="1460466589400" redirect="true"/>

@@ -11,8 +11,8 @@
   <title>PORTFOLIO</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4175211591"/>
-  <link rel="stylesheet" type="text/css" href="css/master_master.css?4273232883"/>
-  <link rel="stylesheet" type="text/css" href="css/portfolio.css?355797097" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_master.css?520183164"/>
+  <link rel="stylesheet" type="text/css" href="css/portfolio.css?3937368960" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -322,190 +322,6 @@ background-color:#222222}
       </div>
       <a class="nonblock nontext shadow museBGSize clearfix colelem" id="u3748" href="javascript:popUpWindow('http://milenakiseleva.github.io/website-karolinaray.tk.html','Website','700','600')"><!-- group --><div class="clearfix grpelem" id="u4555-4"><!-- content --><p id="u4555-2">Karolina Ray</p></div></a>
      </div>
-     <div class="clearfix grpelem" id="pu4522"><!-- column -->
-      <div class="colelem" id="u4522"><!-- custom html -->
-       <script language="JavaScript">
-  /**
-   * Open centered pop-up window
-   *
-   * @param URL - specifies the URL of the page to open. If no URL is specified, a new window with about:blank will be opened
-   * @param windowName - specifies the target attribute or the name of the window (_blank, _parent, _self, _top, name)
-   * @param windowWidth - the window width in pixels (integer)
-   * @param windowHeight - the window height in pixels (integer)
-   */
-   function popUpWindow(URL, windowName, windowWidth, windowHeight) {
-	var centerLeft = (screen.width/2)-(windowWidth/2);
-	var centerTop = (screen.height/2)-(windowHeight/2);
-	var windowFeatures = 'toolbar=no, location=no, directories=no, status=no, menubar=no, titlebar=no, scrollbars=no, resizable=no, ';
-	return window.open(URL, windowName, windowFeatures +' width='+ windowWidth +', height='+ windowHeight +', top='+ centerTop +', left='+ centerLeft);
-   } 
-</script>
-</div>
-      <div class="colelem" id="u5629"><!-- custom html -->
-       <script>
-function defer(method) {
-    if (window.jQuery) {
-        method();
-    } else {
-        setTimeout(function() { defer(method) }, 50);
-    }
-}
-
-defer( function () {
-
-$.getJSON('https://freegeoip.net/json/', function(data) {
-
-    // Get data from the FreeGeoIP.net service
-    var visitor_ip = data.ip;
-    var visitor_country = data.country_name;
-    var visitor_country_code = data.country_code;
-
-    // Target URL
-    var target_url = "https://milenakiseleva.github.io/451.html";
-
-    // List of countries
-    var list_countries_various = [
-            "RU",
-            "ER",
-            "IR",
-            "IQ",
-            "LB",
-            "LY",
-            "EG",
-            "SY",
-            "KP",
-            "CF",
-            "CD",
-            "SO",
-            "SS",
-            "SD",
-            "TN",
-            "YE",
-            "ZW",
-            "CN",
-            "TR"
-    ];
-    var list_countries_arab = [
-            "QA",
-            "PS",
-            "KW",
-            "BH",
-            "JO",
-            "SA",
-            "LB",
-            "AE",
-            "OM",
-            "LY",
-            "SY",
-            "IQ",
-            "TN",
-            "KM",
-            "DZ",
-            "SD",
-            "EG",
-            "YE",
-            "DJ",
-            "MA",
-            "MR",
-            "SO",
-            "IR"
-    ];
-    var list_countries_africa = [
-            "AO",
-            "BF",
-            "BI",
-            "BJ",
-            "BW",
-            "CD",
-            "CF",
-            "CG",
-            "CI",
-            "CM",
-            "CV",
-            "DJ",
-            "DZ",
-            "EG",
-            "EH",
-            "ER",
-            "ET",
-            "GA",
-            "GH",
-            "GM",
-            "GN",
-            "GQ",
-            "GW",
-            "KE",
-            "KM",
-            "LR",
-            "LS",
-            "LY",
-            "MA",
-            "MG",
-            "ML",
-            "MR",
-            "MU",
-            "MW",
-            "MZ",
-            "NA",
-            "NE",
-            "NG",
-            "RE",
-            "RW",
-            "SC",
-            "SD",
-            "SH",
-            "SL",
-            "SN",
-            "SO",
-            "SS",
-            "ST",
-            "SZ",
-            "TD",
-            "TG",
-            "TN",
-            "TZ",
-            "UG",
-            "YT",
-            "ZA",
-            "ZM",
-            "ZW"
-    ];
-
-    /*
-    // Merge arrays with list of countries and Remove duplicates
-    function arrayUnique( array ) {
-        var a = array.concat();
-        for ( var i = 0; i < a.length; ++i ) {
-            for ( var j = i+1; j < a.length; ++j ) {
-                if ( a[i] === a[j] )
-                    a.splice( j--, 1 );
-            }
-        }
-        return a;
-    }
-    var list_countries = arrayUnique( list_countries_various.concat( list_countries_arab, list_countries_africa ) );
-    */
-
-    // Merge arrays with list of countries
-    var list_countries = list_countries_various.concat( list_countries_arab, list_countries_africa );
-
-    // Loop through array with list of countries
-    for ( i = 0; i < list_countries.length; i++ ) {
-
-        // Check if visitors country is on the list
-        if ( visitor_country_code == list_countries[i] ) {
-
-            // Redirect visitors
-            window.location.replace(target_url);
-            //window.location.href = target_url;
-        }
-    }
-});
-
-});
-</script>
-</div>
-     </div>
      <div class="grpelem" id="u3099"><!-- custom html -->
       <ul class="social-icons">
 	<li>
@@ -584,6 +400,24 @@ $.getJSON('https://freegeoip.net/json/', function(data) {
 </style>
 </div>
      <div class="grpelem" id="u3104"><!-- simple frame --></div>
+     <div class="grpelem" id="u4522"><!-- custom html -->
+      <script language="JavaScript">
+  /**
+   * Open centered pop-up window
+   *
+   * @param URL - specifies the URL of the page to open. If no URL is specified, a new window with about:blank will be opened
+   * @param windowName - specifies the target attribute or the name of the window (_blank, _parent, _self, _top, name)
+   * @param windowWidth - the window width in pixels (integer)
+   * @param windowHeight - the window height in pixels (integer)
+   */
+   function popUpWindow(URL, windowName, windowWidth, windowHeight) {
+	var centerLeft = (screen.width/2)-(windowWidth/2);
+	var centerTop = (screen.height/2)-(windowHeight/2);
+	var windowFeatures = 'toolbar=no, location=no, directories=no, status=no, menubar=no, titlebar=no, scrollbars=no, resizable=no, ';
+	return window.open(URL, windowName, windowFeatures +' width='+ windowWidth +', height='+ windowHeight +', top='+ centerTop +', left='+ centerLeft);
+   } 
+</script>
+</div>
     </div>
     <div class="clearfix colelem" id="u3844-4"><!-- content -->
      <p>——————————————&nbsp;&nbsp; Icons&nbsp;&nbsp; ——————————————</p>
@@ -666,7 +500,7 @@ $.getJSON('https://freegeoip.net/json/', function(data) {
     <div class="clearfix colelem" id="pu3093"><!-- group -->
      <div class="clearfix grpelem" id="u3093"><!-- column -->
       <div class="clearfix colelem" id="u3252-4"><!-- content -->
-       <p>© 2016 - 2017&nbsp; ·&nbsp; Milena Kiseleva. All rights reserved.</p>
+       <p>© 2016 - 2018&nbsp; ·&nbsp; Milena Kiseleva. All rights reserved.</p>
       </div>
       <a class="nonblock nontext clearfix colelem" id="u5246-4" href="privacy-policy.html"><!-- content --><p>Privacy Policy</p></a>
      </div>

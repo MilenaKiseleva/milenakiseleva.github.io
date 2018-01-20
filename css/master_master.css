@@ -205,9 +205,9 @@
 #u3252-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
 	font-size: 13px;
+	color: #FFFFFF;
 	line-height: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -216,9 +216,9 @@
 #u5246-4
 {
 	background-color: transparent;
-	color: #E792C4;
 	text-align: center;
 	font-size: 13px;
+	color: #E792C4;
 	line-height: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -230,7 +230,7 @@
 	visibility: inherit;
 }
 
-#u3099,#u5629,#u4305
+#u3099,#u4305
 {
 	border-width: 0px;
 	border-color: transparent;

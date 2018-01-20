@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #0000E0;
-	background-color: #3B43DE;
+	color: #0000E3;
+	background-color: #C2021A;
 }
 
 #muse_css_mq
@@ -455,13 +455,13 @@
 
 #u1289-10
 {
-	z-index: 59;
+	z-index: 58;
 	width: 782px;
 	min-height: 56px;
 	background-color: transparent;
-	color: #9E9E9E;
 	text-align: center;
 	font-size: 16px;
+	color: #9E9E9E;
 	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -469,17 +469,6 @@
 	margin-right: -10000px;
 	margin-top: 87px;
 	left: 130px;
-}
-
-#u5629
-{
-	z-index: 58;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 612px;
-	left: 963px;
 }
 
 #u3093
@@ -553,6 +542,6 @@ body
 
 .verticalspacer
 {
-	min-height: 12px;
+	min-height: 17px;
 }
 

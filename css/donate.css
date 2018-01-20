@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #0000E9;
-	background-color: #73F581;
+	color: #000006;
+	background-color: #587AEC;
 }
 
 #muse_css_mq
@@ -443,12 +443,12 @@
 
 #u1225-23
 {
-	z-index: 59;
+	z-index: 58;
 	width: 782px;
 	min-height: 323px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -473,7 +473,7 @@
 
 #u1235
 {
-	z-index: 82;
+	z-index: 81;
 	width: 118px;
 	min-height: 33px;
 	border-width: 0px;
@@ -503,17 +503,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 50px;
-}
-
-#u5629
-{
-	z-index: 58;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 612px;
-	left: 963px;
 }
 
 #u3093
@@ -587,6 +576,6 @@ body
 
 .verticalspacer
 {
-	min-height: 12px;
+	min-height: 17px;
 }
 

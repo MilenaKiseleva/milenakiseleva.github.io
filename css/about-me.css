@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #00000C;
-	background-color: #2C44EE;
+	color: #00001B;
+	background-color: #B7F9BA;
 }
 
 #muse_css_mq
@@ -450,7 +450,7 @@
 
 #u3389
 {
-	z-index: 75;
+	z-index: 74;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -465,7 +465,7 @@
 
 #u3395-6
 {
-	z-index: 80;
+	z-index: 79;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -493,7 +493,7 @@
 
 #u2040
 {
-	z-index: 72;
+	z-index: 71;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -508,7 +508,7 @@
 
 #u1291
 {
-	z-index: 73;
+	z-index: 72;
 	width: 237px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -520,7 +520,7 @@
 
 #u1292
 {
-	z-index: 74;
+	z-index: 73;
 	width: 225px;
 	height: 218px;
 	border-radius: 160px;
@@ -548,7 +548,7 @@
 
 #u3391
 {
-	z-index: 77;
+	z-index: 76;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -563,7 +563,7 @@
 
 #u3396-6
 {
-	z-index: 86;
+	z-index: 85;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -584,7 +584,7 @@
 
 #u3390
 {
-	z-index: 76;
+	z-index: 75;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -599,7 +599,7 @@
 
 #u3397-6
 {
-	z-index: 92;
+	z-index: 91;
 	width: 351px;
 	min-height: 21px;
 	background-color: transparent;
@@ -620,7 +620,7 @@
 
 #u3392
 {
-	z-index: 78;
+	z-index: 77;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -635,7 +635,7 @@
 
 #u3398-6
 {
-	z-index: 98;
+	z-index: 97;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -661,7 +661,7 @@
 
 #u3394
 {
-	z-index: 79;
+	z-index: 78;
 	width: 369px;
 	height: 19px;
 	border-style: solid;
@@ -676,7 +676,7 @@
 
 #u3400-7
 {
-	z-index: 104;
+	z-index: 103;
 	width: 350px;
 	min-height: 21px;
 	background-color: transparent;
@@ -706,7 +706,7 @@
 
 #u1290-13
 {
-	z-index: 59;
+	z-index: 58;
 	width: 782px;
 	min-height: 270px;
 	background-color: transparent;
@@ -748,17 +748,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 50px;
-}
-
-#u5629
-{
-	z-index: 58;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 612px;
-	left: 963px;
 }
 
 #u3093

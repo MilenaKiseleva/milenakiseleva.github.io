@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000F1;
-	background-color: #1B3F4D;
+	color: #000009;
+	background-color: #9ABDAB;
 }
 
 #muse_css_mq
@@ -445,12 +445,12 @@
 
 #u1223-5
 {
-	z-index: 60;
+	z-index: 59;
 	width: 782px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -463,7 +463,7 @@
 
 #u1221
 {
-	z-index: 59;
+	z-index: 58;
 	width: 764px;
 	min-height: 503px;
 	border-width: 0px;
@@ -491,17 +491,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 50px;
-}
-
-#u5629
-{
-	z-index: 58;
-	width: 60px;
-	min-height: 60px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 612px;
-	left: 963px;
 }
 
 #u3093
