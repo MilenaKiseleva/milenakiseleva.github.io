@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1516449404349">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1516449450453">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
@@ -20,21 +20,19 @@
     <file name="contact-thanks.css" crc="3821142554" ref="contact-thanks"/>
     <file name="404.css" crc="3941442407" ref="404"/>
     <file name="iefonts_404.css" crc="3796617480" ref="404"/>
-    <file name="451.css" crc="3857627582" ref="451"/>
-    <file name="iefonts_451.css" crc="3865775828" ref="451"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk:451"/>
-    <file name="museutils.js" crc="531812214" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk:451"/>
-    <file name="whatinput.js" crc="84559013" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk:451"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
+    <file name="museutils.js" crc="531812214" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
+    <file name="whatinput.js" crc="84559013" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
     <file name="jquery.musemenu.js" crc="3902934130" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
     <file name="webpro.js" crc="4156477058" ref="index:resume"/>
     <file name="musewpslideshow.js" crc="4058618124" ref="index:resume"/>
     <file name="jquery.museoverlay.js" crc="3810062583" ref="index:resume"/>
     <file name="touchswipe.js" crc="4174436727" ref="index:resume"/>
     <file name="pie.js" crc="3827607177" ref="resume:portfolio:about-me"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk:451"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk:451"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="portfolio:404:website-milenakiseleva.github.io:website-milenakiseleva.blogspot.com:website-karolinaray.tk:website-milenarussianprincess.tk"/>
   </folder>
   <folder name="images">
@@ -76,8 +74,6 @@
     <file name="pinguin.png" crc="3758782064" ref="404"/>
     <file name="social-life.jpg" crc="3964673796" ref="portfolio"/>
     <file name="birthday-5.jpg" crc="230738712" ref="portfolio"/>
-    <file name="lock.jpg" crc="4115236169" seo="true" ref="451"/>
-    <file name="noise.jpg" crc="3766357177" ref="451"/>
   </folder>
   <file name="index.html" crc="4076659921" seo="true" mt="1516449389095" redirect="true"/>
   <file name="resume.html" crc="405006053" seo="true" mt="1516449389095" redirect="true"/>
@@ -92,5 +88,4 @@
   <file name="website-milenakiseleva.blogspot.com.html" crc="450734852" seo="true" mt="1456910098617" redirect="true"/>
   <file name="website-karolinaray.tk.html" crc="3855349858" seo="true" mt="1460466589400" redirect="true"/>
   <file name="website-milenarussianprincess.tk.html" crc="3779766144" seo="true" mt="1456909817049" redirect="true"/>
-  <file name="451.html" crc="422403944" seo="true" mt="1505140766204" redirect="true"/>
 </manifest>
