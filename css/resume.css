@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000001;
-	background-color: #F58B40;
+	color: #0000F6;
+	background-color: #173981;
 }
 
 #muse_css_mq
@@ -796,9 +796,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	color: #FFFFFF;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: -45px;
@@ -815,9 +815,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	color: #FFFFFF;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: 1160px;
@@ -864,9 +864,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	color: #FFFFFF;
-	line-height: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;

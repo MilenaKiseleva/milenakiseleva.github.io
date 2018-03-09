@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #0F2D2C;
+	color: #0000EB;
+	background-color: #AE7593;
 }
 
 #muse_css_mq
@@ -529,10 +529,10 @@
 	width: 329px;
 	min-height: 229px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 38px;
 	color: #0092C4;
 	line-height: 46px;
+	text-align: center;
+	font-size: 38px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

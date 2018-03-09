@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000EA;
-	background-color: #EDA367;
+	color: #0000F8;
+	background-color: #E183BB;
 }
 
 #muse_css_mq
@@ -458,8 +458,8 @@
 	width: 101px;
 	min-height: 27px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
