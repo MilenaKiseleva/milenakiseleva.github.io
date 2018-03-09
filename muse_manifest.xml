@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1520610037354">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1520610150939">
   <folder name="assets">
     <file name="milena_kiseleva.vcf" crc="4040555236" seo="true" mt="1456825408000"/>
   </folder>
@@ -78,7 +78,7 @@
   </folder>
   <file name="index.html" crc="528297099" seo="true" mt="1516449389095" redirect="true"/>
   <file name="resume.html" crc="36108217" seo="true" mt="1516449389095" redirect="true"/>
-  <file name="portfolio.html" crc="402435086" seo="true" mt="1520610028434" redirect="true"/>
+  <file name="portfolio.html" crc="3899021315" seo="true" mt="1520610142765" redirect="true"/>
   <file name="about-me.html" crc="3888398224" seo="true" mt="1516449389095" redirect="true"/>
   <file name="donate.html" crc="206439703" seo="true" mt="1516449389095" redirect="true"/>
   <file name="contact.html" crc="275878090" seo="true" mt="1516449389095" redirect="true"/>
