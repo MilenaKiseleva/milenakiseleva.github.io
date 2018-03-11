@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://milenakiseleva.github.io/assets/milena_kiseleva.vcf</loc>
-    <lastmod>2016-03-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://milenakiseleva.github.io/images/milenakiseleva1.jpg</loc>
-    <lastmod>2018-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://milenakiseleva.github.io/images/milenakiseleva2.jpg</loc>
-    <lastmod>2018-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://milenakiseleva.github.io/images/2004.jpg</loc>
-    <lastmod>2018-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://milenakiseleva.github.io/images/2004178x251.jpg</loc>
-    <lastmod>2018-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://milenakiseleva.github.io/index.html</loc>
+    <lastmod>2018-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://milenakiseleva.github.io/images/milenakiseleva1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://milenakiseleva.github.io/images/milenakiseleva2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://milenakiseleva.github.io/privacy-policy.html</loc>
     <lastmod>2018-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -41,10 +23,16 @@
     <lastmod>2018-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://milenakiseleva.github.io/images/2004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://milenakiseleva.github.io/images/2004178x251.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://milenakiseleva.github.io/portfolio.html</loc>
-    <lastmod>2018-03-09</lastmod>
+    <lastmod>2018-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,8 +55,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://milenakiseleva.github.io/privacy-policy.html</loc>
-    <lastmod>2018-01-20</lastmod>
+    <loc>http://milenakiseleva.github.io/website-milenakiseleva.github.io.html</loc>
+    <lastmod>2016-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -85,8 +73,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://milenakiseleva.github.io/website-milenakiseleva.github.io.html</loc>
-    <lastmod>2016-03-02</lastmod>
+    <loc>http://milenakiseleva.github.io/website-karolinaray.tk.html</loc>
+    <lastmod>2016-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -97,14 +85,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://milenakiseleva.github.io/website-karolinaray.tk.html</loc>
-    <lastmod>2016-04-12</lastmod>
+    <loc>http://milenakiseleva.github.io/website-milenarussianprincess.tk.html</loc>
+    <lastmod>2016-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://milenakiseleva.github.io/website-milenarussianprincess.tk.html</loc>
-    <lastmod>2016-03-02</lastmod>
+    <loc>http://milenakiseleva.github.io/assets/milena_kiseleva.vcf</loc>
+    <lastmod>2016-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
