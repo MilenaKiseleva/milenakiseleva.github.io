@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "name": "milenakiseleva",
+  "description": "Website Milena Kiseleva",
+  "homepage": "https://milenakiseleva.com/",
+  "license": "UNLICENSED",
+  "keywords": [
+    "website",
+    "milenakiseleva"
+  ],
+  "author": "Milena Kiseleva (https://www.instagram.com/milava_kiseleva/)",
+  "scripts": {
+    "test": ""
+  },
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilenaKiseleva/milenakiseleva.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MilenaKiseleva/milenakiseleva.github.io/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2"
+  }
+}
