@@ -2,8 +2,15 @@
 .DS_Store
 Thumbs.db
 
+
 # Ignore folders
 .svn
+node_modules
+
 
 # Ignore extensions
 *.log
+
+
+# Ignore local configuration files
+package-lock.json
