@@ -89,7 +89,6 @@
     }
 
     exports.html_optimize = html_optimize;
-    exports.html = html_optimize;
     exports.css = stylesheets;
     exports.js = javascript_bundle;
     exports.default = parallel(html_optimize, stylesheets, javascript_bundle);
