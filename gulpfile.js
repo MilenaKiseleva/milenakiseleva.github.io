@@ -31,6 +31,7 @@
         done();
     }
 
+    exports.html_optimize = html_optimize;
     exports.default = parallel(execution_time, default_function);
 
 })();
