@@ -15,7 +15,6 @@
         autoprefixer = require('autoprefixer'),
         cssnano   = require('cssnano'),
         htmlmin   = require('gulp-htmlmin'),
-        prettify  = require('gulp-html-prettify'),
         beautify  = require('gulp-beautify'),
 
         // Directory locations
@@ -49,13 +48,8 @@
         let beautify_opts = {
             indent_size: 4
         };
-        let prettify_opts = {
-            indent_char: ' ',
-            indent_size: 4
-        };
         return src(files)
             .pipe(htmlmin(htmlmin_opts))
-            .pipe(prettify(prettify_opts))
             .pipe(beautify.html(beautify_opts))
             .pipe(dest(`${path.build}/`));
     }
