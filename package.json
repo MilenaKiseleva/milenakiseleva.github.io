@@ -23,8 +23,24 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "autoprefixer": "^9.7.4",
+    "cssnano": "^4.1.10",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
-    "gulp-beautify": "^3.0.0"
-  }
+    "gulp-babel": "^8.0.0",
+    "gulp-beautify": "^3.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-uglify": "^3.0.2",
+    "postcss-unprefix": "^2.1.4"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "IE 10"
+  ]
 }
