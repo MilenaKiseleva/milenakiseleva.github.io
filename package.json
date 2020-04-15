@@ -32,6 +32,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-beautify": "^3.0.0",
     "gulp-concat": "^2.6.1",
+    "gulp-htmlhint": "^3.0.0",
     "gulp-htmlmin": "^5.0.1",
     "gulp-postcss": "^8.0.0",
     "gulp-uglify": "^3.0.2",
