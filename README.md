@@ -4,7 +4,7 @@ Personal website of Milena Kiseleva.
 
 [![screenshot](https://github.com/MilenaKiseleva/milenakiseleva.github.io/blob/master/screenshot.png)]()
 
-This is the code for my personal website - [milenakiseleva.github.io](https://milenakiseleva.com) - it's a static site built with Adobe Muse.
+This is the code for my personal website - [milenakiseleva.com](https://milenakiseleva.com) - it's a static site built with Adobe Muse.
 
 
 ## DON'T CLONE THIS REPO!
