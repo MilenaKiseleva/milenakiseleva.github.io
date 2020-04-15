@@ -16,6 +16,7 @@
         cssnano   = require('cssnano'),
         htmlmin   = require('gulp-htmlmin'),
         beautify  = require('gulp-beautify'),
+        htmlhint  = require('gulp-htmlhint'),
 
         // Directory locations
         path = {
@@ -54,6 +55,17 @@
             .pipe(dest(`${path.build}/`));
     }
 
+    function html_validate () {
+        let files = [
+            `${path.build}/**/*.html`,
+            '!node_modules/**'
+        ];
+        return src(files)
+            .pipe(htmlhint())
+            .pipe(htmlhint.reporter())
+            .pipe(htmlhint.failOnError({ suppress: true }));
+    }
+
     function stylesheets () {
         let css_files = [
             `${path.build}/css/*.css`
@@ -89,6 +101,7 @@
     }
 
     exports.html_optimize = html_optimize;
+    exports.html_validate = html_validate;
     exports.css     = stylesheets;
     exports.js      = javascript_bundle;
     exports.default = parallel(html_optimize, stylesheets, javascript_bundle);
