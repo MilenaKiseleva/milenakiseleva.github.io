@@ -11,7 +11,7 @@
         uglify    = require('gulp-uglify'),
         postcss   = require('gulp-postcss'),
         babel     = require('gulp-babel'),
-        unprefix  = require("postcss-unprefix"),
+        unprefix  = require('postcss-unprefix'),
         autoprefixer = require('autoprefixer'),
         cssnano   = require('cssnano'),
         htmlmin   = require('gulp-htmlmin'),
