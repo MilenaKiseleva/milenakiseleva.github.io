@@ -35,6 +35,7 @@
     "gulp-htmlhint": "^3.0.0",
     "gulp-htmlmin": "^5.0.1",
     "gulp-postcss": "^8.0.0",
+    "gulp-posthtml": "^3.0.4",
     "gulp-uglify": "^3.0.2",
     "postcss-unprefix": "^2.1.4"
   },
