@@ -9,6 +9,7 @@
         del       = require('del'),
         concat    = require('gulp-concat'),
         uglify    = require('gulp-uglify'),
+        posthtml  = require('gulp-posthtml'),
         postcss   = require('gulp-postcss'),
         babel     = require('gulp-babel'),
         unprefix  = require('postcss-unprefix'),
@@ -33,6 +34,9 @@
             `${path.build}/**/*.html`,
             '!node_modules/**'
         ];
+        let posthtml_opts = [
+
+        ];
         let htmlmin_opts = {
             html5: true,                         // Parse input according to HTML5 specifications
             preserveLineBreaks: true,            // Always collapse to 1 line break (never remove it entirely) when whitespace between tags include a line break. Must be used in conjunction with collapseWhitespace=true
@@ -50,6 +54,7 @@
             indent_size: 4
         };
         return src(files)
+            .pipe(posthtml(posthtml_opts))
             .pipe(htmlmin(htmlmin_opts))
             .pipe(beautify.html(beautify_opts))
             .pipe(dest(`${path.build}/`));
