@@ -1,6 +1,6 @@
 'use strict'
 
-// Include dependencies
+// Include dependency
 const url = require('url');
 
 module.exports = function(options) {
@@ -23,7 +23,9 @@ module.exports = function(options) {
             node.attrs = node.attrs || {};
 
             // Read the domain name from the URL
-            const href = node.attrs.href;
+            if (typeof node.attrs.href != 'string') {
+                return node;
+            }
             const link = url.parse(
                 node.attrs.href,
                 false,
