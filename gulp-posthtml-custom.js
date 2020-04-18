@@ -27,7 +27,7 @@ module.exports = function(options) {
             const link = url.parse(
                 node.attrs.href,
                 false,
-                false
+                true
             );
             if (!link.hostname) {
                 return node;
