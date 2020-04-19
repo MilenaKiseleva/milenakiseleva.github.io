@@ -18,6 +18,7 @@
         htmlmin   = require('gulp-htmlmin'),
         beautify  = require('gulp-beautify'),
         htmlhint  = require('gulp-htmlhint'),
+        posthtml_custom = require('./gulp-posthtml-custom.js'),
 
         // Directory locations
         path = {
@@ -35,7 +36,22 @@
             '!node_modules/**'
         ];
         let posthtml_opts = [
-
+            posthtml_custom({
+                excludeHosts : [
+                    'milenakiseleva.com'
+                ],
+                noTarget : [],
+                noRel : [
+                    'spacexchimp.com',
+                    'www.spacexchimp.com',
+                    'docs.spacexchimp.com',
+                    'demo.spacexchimp.com',
+                    'mycyberuniverse.com',
+                    'www.mycyberuniverse.com',
+                    'arthurgareginyan.com',
+                    'www.arthurgareginyan.com'
+                ]
+            })
         ];
         let htmlmin_opts = {
             html5: true,                         // Parse input according to HTML5 specifications
