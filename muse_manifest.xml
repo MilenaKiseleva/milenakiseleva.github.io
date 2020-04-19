@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="milenakiseleva.github.io" resolutions="1x" timestamp="1546340514902">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="milenakiseleva.com" resolutions="1x" timestamp="1546340514902">
   <folder name="css">
     <file name="site_global.css" crc="401453143"/>
     <file name="master_master.css" crc="157529786" ref="portfolio:donate:index:contact-thanks:about-me:privacy-policy:resume:404:contact"/>
