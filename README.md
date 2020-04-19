@@ -39,7 +39,7 @@ Milena Kiseleva
 
 * GitHub: [https://github.com/MilenaKiseleva/](https://github.com/MilenaKiseleva/)
 
-* Website: [http://milenakiseleva.blogspot.ru/](http://milenakiseleva.blogspot.ru/)
+* Website: [https://milenakiseleva.blogspot.com/](https://milenakiseleva.blogspot.com/)
 
 * Donation: [https://www.paypal.me/milenak](https://www.paypal.me/milenak)
 
