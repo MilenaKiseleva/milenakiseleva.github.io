@@ -8,6 +8,8 @@ module.exports = function(options) {
     // Options
     options = options || {};
     options.excludeHosts = options.excludeHosts || [];
+    options.noTarget = options.noTarget || [];
+    options.noRel = options.noRel || [];
     options.attrRel = options.attrRel || [
         'nofollow',
         'noopener',
