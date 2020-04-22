@@ -18,7 +18,7 @@
         htmlmin   = require('gulp-htmlmin'),
         beautify  = require('gulp-beautify'),
         htmlhint  = require('gulp-htmlhint'),
-        posthtml_custom = require('./gulp-posthtml-custom.js'),
+        outlinks  = require('./posthtml-outlinks.js'),
 
         // Directory locations
         path = {
@@ -36,7 +36,7 @@
             '!node_modules/**'
         ];
         let posthtml_opts = [
-            posthtml_custom({
+            outlinks({
                 excludeHosts : [
                     'milenakiseleva.com'
                 ],
