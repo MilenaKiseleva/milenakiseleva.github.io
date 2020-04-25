@@ -18,7 +18,7 @@
         htmlmin   = require('gulp-htmlmin'),
         beautify  = require('gulp-beautify'),
         htmlhint  = require('gulp-htmlhint'),
-        outlinks  = require('./posthtml-outlinks.js'),
+        outlinks  = require('posthtml-outlinks'),
 
         // Directory locations
         path = {

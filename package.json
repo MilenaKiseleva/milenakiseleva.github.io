@@ -37,7 +37,8 @@
     "gulp-postcss": "^8.0.0",
     "gulp-posthtml": "^3.0.4",
     "gulp-uglify": "^3.0.2",
-    "postcss-unprefix": "^2.1.4"
+    "postcss-unprefix": "^2.1.4",
+    "posthtml-outlinks": "^1.0.0"
   },
   "browserslist": [
     "last 1 version",
