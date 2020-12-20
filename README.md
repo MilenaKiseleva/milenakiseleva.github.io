@@ -47,8 +47,8 @@ Milena Kiseleva
 ---
 #### Technologies:
 
-[![Adobe Muse](http://resources.spacexchimp.com/images/logos/Adobe-Muse.png)]()
-[![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
-[![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]()
-[![JS](http://resources.spacexchimp.com/images/logos/JavaScript.png)]()
-[![JQuery](http://resources.spacexchimp.com/images/logos/jQurery.png)]()
+[![Adobe Muse](https://resources.spacexchimp.com/images/logos/Adobe-Muse.png)]()
+[![HTML5](https://resources.spacexchimp.com/images/logos/HTML5.png)]()
+[![CSS3](https://resources.spacexchimp.com/images/logos/CSS3.png)]()
+[![JS](https://resources.spacexchimp.com/images/logos/JavaScript.png)]()
+[![JQuery](https://resources.spacexchimp.com/images/logos/jQurery.png)]()
