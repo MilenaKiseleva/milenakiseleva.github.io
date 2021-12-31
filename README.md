@@ -28,7 +28,7 @@ Contact form are powered by [Formspree](https://formspree.io).
 
 ## Copyright
 
-Copyright © 2016-2017 Milena Kiseleva.
+Copyright © 2016-2022 Milena Kiseleva.
 
 
 ## Author
