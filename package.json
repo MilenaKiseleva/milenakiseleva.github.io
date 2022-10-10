@@ -11,6 +11,8 @@
   ],
   "author": "Milena Kiseleva (https://www.instagram.com/milava_kiseleva/)",
   "scripts": {
+    "install": "npm install del@6.0.0 gulp-imagemin@7.1.0 imagemin-webp@6.0.0 postcss-unprefix@1.2.0",
+    "update": "ncu -u -x del,gulp-imagemin,imagemin-webp,postcss-unprefix",
     "test": ""
   },
   "main": "index.html",
