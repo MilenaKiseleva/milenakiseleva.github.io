@@ -1,4 +1,4 @@
-# MilenaKiseleva.github.io
+# MilenaKiseleva.github.io / MilenaKiseleva.com
 
 Personal website of Milena Kiseleva.
 
@@ -8,7 +8,7 @@ This is the code for my personal website - [milenakiseleva.com](https://milenaki
 
 
 ## DON'T CLONE THIS REPO!
-### THE SPACEX-CHIMP WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
+### THE MilenaKiseleva.com WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
 
 
 ## Under the hood
