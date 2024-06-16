@@ -1,14 +1,7 @@
-# MilenaKiseleva.github.io / MilenaKiseleva.com
+# GitHub Pages website of Milena Kiseleva - [milenakiseleva.github.io](https://milenakiseleva.github.io)
 
-Personal website of Milena Kiseleva.
-
-[![screenshot](https://github.com/MilenaKiseleva/milenakiseleva.github.io/blob/master/screenshot.png)]()
-
-This is the code for my personal website - [milenakiseleva.com](https://milenakiseleva.com) - it's a static site built with Adobe Muse.
-
-
-## DON'T CLONE THIS REPO!
-### THE MilenaKiseleva.com WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
+> DON'T CLONE THIS REPO!
+> THIS WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
 
 
 ## Creation date
@@ -22,38 +15,39 @@ This is the code for my personal website - [milenakiseleva.com](https://milenaki
 
 Website hosted at [GitHub Pages](https://pages.github.com).
 
+#### Generator
+
+None.
+
 #### Theme
 
-Theme "..." designed by [Milena Kiseleva](https://milenakiseleva.com).
+None.
 
-#### Contact form
 
-Contact form are powered by [Formspree](https://formspree.io).
+## Linking
+
+Please do not [hotlink](http://en.wikipedia.org/wiki/Hotlinking) the files contained on this webserver, e.g. by including an image hosted here in any external HTML. Hotlinking is not only a breach of "netiquette": It is bandwidth theft and will be blocked with extreme prejudice.
 
 
 ## Copyright
 
-Copyright © 2016-2024 Milena Kiseleva.
+Copyright © 2016-2024 Milena Kiseleva. All rights reserved.
+
+All content on this website is protected by international copyright law, unless otherwise specified. Material that I have explicitly released under a free license is of course available to all without my approval.
 
 
 ## Author
 
 Milena Kiseleva
 
-* Email: milavakiseleva@gmail.com
+* Email: [milavakiseleva@gmail.com](mailto:milavakiseleva@gmail.com)
 
 * GitHub: [https://github.com/MilenaKiseleva/](https://github.com/MilenaKiseleva/)
 
-* Website: [https://milenakiseleva.blogspot.com/](https://milenakiseleva.blogspot.com/)
-
-* Donation: [https://www.paypal.me/milenak](https://www.paypal.me/milenak)
+* Website: [https://www.milenakiseleva.com](https://www.milenakiseleva.com)
 
 
 ---
 #### Technologies:
 
-[![Adobe Muse](https://resources.spacexchimp.com/images/logos/Adobe-Muse.png)]()
 [![HTML5](https://resources.spacexchimp.com/images/logos/HTML5.png)]()
-[![CSS3](https://resources.spacexchimp.com/images/logos/CSS3.png)]()
-[![JS](https://resources.spacexchimp.com/images/logos/JavaScript.png)]()
-[![JQuery](https://resources.spacexchimp.com/images/logos/jQurery.png)]()
